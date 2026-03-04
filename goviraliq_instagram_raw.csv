@@ -1,0 +1,1213 @@
+Post_ID,Platform,Hashtag,Content_Type,Region,Views,Likes,Shares,Comments,Engagement_Level,engagement_rate,viral
+Post_2,Instagram,#Education,Shorts,India,4155940,215240,65860,27239,Medium,7.4192,0
+Post_6,Instagram,#Challenge,Shorts,Australia,1323566,136282,86979,47129,Low,20.4289,0
+Post_11,Instagram,#Comedy,Live Stream,Germany,4070332,379894,46012,25242,High,11.0838,0
+Post_27,Instagram,#Gaming,Video,India,4369260,212278,21264,18172,Low,5.761,0
+Post_29,Instagram,#Gaming,Live Stream,Canada,1653907,91836,77370,2823,Low,10.4014,0
+Post_31,Instagram,#Comedy,Reel,Australia,1365655,156164,84930,18303,Low,18.9943,0
+Post_37,Instagram,#Music,Reel,Germany,48908,205884,37256,14618,Low,527.0263,1
+Post_38,Instagram,#Dance,Video,India,1367820,10794,7617,36639,Medium,4.0247,0
+Post_46,Instagram,#Gaming,Tweet,Brazil,272327,274271,56073,17526,High,127.7398,1
+Post_47,Instagram,#Tech,Reel,Japan,1600237,325368,62818,25686,Medium,25.8632,0
+Post_48,Instagram,#Dance,Live Stream,India,2212857,74624,24137,35546,Medium,6.0694,0
+Post_50,Instagram,#Fashion,Reel,Japan,2747788,422463,21545,40997,Low,17.6507,0
+Post_57,Instagram,#Challenge,Live Stream,Australia,2824818,34126,53516,29452,Low,4.1452,0
+Post_64,Instagram,#Gaming,Shorts,Canada,1142030,212596,72334,18,High,24.951,0
+Post_72,Instagram,#Education,Tweet,Australia,1419701,68719,98115,36515,Low,14.3234,0
+Post_76,Instagram,#Dance,Tweet,India,1796369,145118,68421,16720,High,12.818,0
+Post_79,Instagram,#Challenge,Reel,USA,4219632,171996,5043,3436,Medium,4.277,0
+Post_81,Instagram,#Challenge,Shorts,India,4290853,211176,66264,14337,Medium,6.8,0
+Post_82,Instagram,#Dance,Live Stream,Australia,284772,338933,22771,18899,Low,133.6518,1
+Post_83,Instagram,#Gaming,Live Stream,Japan,4637078,219517,5831,32657,Low,5.564,0
+Post_84,Instagram,#Comedy,Shorts,Brazil,3315125,62336,79392,42892,High,5.569,0
+Post_99,Instagram,#Viral,Reel,Germany,965073,263310,39207,27324,High,34.1778,0
+Post_104,Instagram,#Music,Tweet,India,3588997,241125,65026,30917,Medium,9.3917,0
+Post_105,Instagram,#Fitness,Post,Japan,13562,11483,33641,30457,Medium,557.2998,1
+Post_109,Instagram,#Fitness,Video,USA,4844012,452777,44862,23870,High,10.7661,0
+Post_112,Instagram,#Dance,Video,Brazil,1994041,310266,87995,40217,Medium,21.9894,0
+Post_115,Instagram,#Education,Tweet,Canada,1599554,364748,16705,8949,High,24.4069,0
+Post_121,Instagram,#Comedy,Shorts,Australia,2484315,101605,80028,36281,High,8.7716,0
+Post_124,Instagram,#Music,Post,USA,4646060,21362,31562,19778,Medium,1.5648,0
+Post_126,Instagram,#Fashion,Video,Japan,962137,319381,69098,38387,Low,44.3664,1
+Post_129,Instagram,#Comedy,Post,UK,1029488,449148,87211,35005,High,55.4998,1
+Post_137,Instagram,#Fashion,Tweet,Canada,1438248,223413,84930,42774,Low,24.4128,0
+Post_138,Instagram,#Fashion,Live Stream,Brazil,4027409,80497,44156,14597,Medium,3.4576,0
+Post_139,Instagram,#Music,Video,India,3488909,443844,19877,22056,Low,13.9235,0
+Post_143,Instagram,#Challenge,Tweet,USA,4283565,107901,84854,4738,Low,4.6105,0
+Post_146,Instagram,#Education,Reel,Canada,964498,194879,76029,34998,High,31.7166,0
+Post_149,Instagram,#Gaming,Video,Brazil,1292958,95304,3716,44880,Low,11.1295,0
+Post_150,Instagram,#Viral,Reel,UK,4103477,75909,5645,4052,Low,2.0862,0
+Post_152,Instagram,#Fashion,Reel,USA,4593170,34210,33344,11022,Low,1.7107,0
+Post_154,Instagram,#Tech,Shorts,Canada,41081,319140,6541,23057,Low,848.9034,1
+Post_162,Instagram,#Challenge,Video,Brazil,3201846,335416,50986,16715,High,12.5901,0
+Post_167,Instagram,#Fashion,Video,USA,2252593,61466,13181,29007,High,4.6015,0
+Post_171,Instagram,#Music,Live Stream,Australia,1630617,435112,71742,49750,High,34.1346,0
+Post_172,Instagram,#Education,Live Stream,USA,4709770,389553,55435,16799,Medium,9.8049,0
+Post_173,Instagram,#Fitness,Tweet,Australia,2275387,271817,72208,27046,High,16.308,0
+Post_180,Instagram,#Fitness,Tweet,Canada,4888613,414422,11933,23903,High,9.2103,0
+Post_182,Instagram,#Tech,Reel,UK,4003071,22251,13517,13392,Low,1.2281,0
+Post_183,Instagram,#Dance,Video,Germany,681752,197632,98860,19379,High,46.3322,1
+Post_184,Instagram,#Gaming,Shorts,Germany,4684548,122401,82864,42106,Low,5.2806,0
+Post_185,Instagram,#Tech,Video,UK,3916842,292224,72417,38211,High,10.2851,0
+Post_193,Instagram,#Comedy,Shorts,UK,4236960,259668,86293,16169,Low,8.5469,0
+Post_197,Instagram,#Fashion,Reel,India,907575,42770,5219,47956,Low,10.5716,0
+Post_205,Instagram,#Viral,Post,USA,741152,226355,58251,46227,High,44.6377,1
+Post_212,Instagram,#Dance,Tweet,India,4764800,52536,65976,47528,Medium,3.4847,0
+Post_214,Instagram,#Viral,Shorts,Japan,4316287,188239,34891,39029,Medium,6.0737,0
+Post_222,Instagram,#Music,Reel,UK,4422912,199110,95413,32057,Low,7.3838,0
+Post_223,Instagram,#Tech,Post,UK,4326885,300734,1870,1496,Medium,7.0282,0
+Post_226,Instagram,#Education,Video,USA,2710672,252420,23167,5670,Low,10.3759,0
+Post_230,Instagram,#Challenge,Shorts,Australia,1498512,205870,16834,34865,Medium,17.1883,0
+Post_231,Instagram,#Dance,Video,Germany,4300552,428951,18627,12148,Low,10.6899,0
+Post_236,Instagram,#Fitness,Reel,Brazil,4708687,133736,49028,3765,Medium,3.9614,0
+Post_243,Instagram,#Fashion,Shorts,UK,2801638,111973,60593,35663,Medium,7.4324,0
+Post_252,Instagram,#Fashion,Tweet,Germany,4080585,203708,22677,23693,Medium,6.1285,0
+Post_258,Instagram,#Fitness,Post,Australia,2787914,198350,96753,45466,Medium,12.2159,0
+Post_259,Instagram,#Comedy,Tweet,USA,893271,69359,66059,43386,Medium,20.0168,0
+Post_264,Instagram,#Music,Tweet,Canada,4588770,448601,52948,32818,Medium,11.6451,0
+Post_265,Instagram,#Tech,Video,Canada,485489,265199,14446,34447,Low,64.696,1
+Post_269,Instagram,#Dance,Shorts,Japan,242459,366128,20712,22677,Medium,168.9015,1
+Post_273,Instagram,#Viral,Reel,Canada,4675636,328475,4510,45120,Low,8.0867,0
+Post_279,Instagram,#Dance,Tweet,Germany,734933,421895,50675,12150,Medium,65.9543,1
+Post_284,Instagram,#Fitness,Tweet,India,1966067,136472,63614,18304,Medium,11.108,0
+Post_291,Instagram,#Education,Video,UK,495496,300566,97031,48197,Low,89.9692,1
+Post_295,Instagram,#Tech,Reel,Canada,70424,392371,44740,10705,Low,635.8855,1
+Post_298,Instagram,#Comedy,Reel,Germany,1853392,232747,87334,27858,Medium,18.7731,0
+Post_301,Instagram,#Education,Live Stream,Brazil,340950,127995,30856,14353,High,50.8004,1
+Post_308,Instagram,#Education,Video,India,1333000,426321,26174,27048,Medium,35.9747,0
+Post_309,Instagram,#Challenge,Post,UK,543708,19494,13359,8753,Low,7.6523,0
+Post_317,Instagram,#Dance,Video,Canada,567122,489613,6414,13429,Low,89.8318,1
+Post_329,Instagram,#Tech,Video,Canada,3502729,423463,33243,17585,Medium,13.5406,0
+Post_335,Instagram,#Viral,Video,Canada,4096574,225112,53015,15291,Low,7.1625,0
+Post_339,Instagram,#Education,Video,Canada,961039,320162,73066,32,Low,40.9203,1
+Post_342,Instagram,#Viral,Tweet,UK,3850711,419814,14656,45277,Low,12.4587,0
+Post_344,Instagram,#Challenge,Video,Canada,121735,293092,98179,41884,Low,355.818,1
+Post_345,Instagram,#Music,Reel,Australia,423362,110690,51877,22816,High,43.7883,1
+Post_359,Instagram,#Tech,Post,Brazil,3573199,332761,15013,41115,Low,10.8835,0
+Post_363,Instagram,#Challenge,Post,Japan,258238,465551,15136,48715,Low,205.0055,1
+Post_366,Instagram,#Music,Tweet,Australia,1568970,253002,46733,33534,Medium,21.2413,0
+Post_367,Instagram,#Education,Live Stream,UK,464742,267582,36900,25379,High,70.9772,1
+Post_369,Instagram,#Dance,Tweet,UK,2177286,201616,27274,22357,High,11.5395,0
+Post_371,Instagram,#Gaming,Video,India,4659521,103924,29063,38288,Medium,3.6758,0
+Post_374,Instagram,#Viral,Tweet,USA,3031527,384860,45831,37574,High,15.4465,0
+Post_375,Instagram,#Challenge,Tweet,Germany,4655360,225104,99715,47565,Low,7.999,0
+Post_382,Instagram,#Dance,Shorts,USA,871802,491525,45339,23004,Medium,64.2196,1
+Post_388,Instagram,#Tech,Post,Japan,665740,389852,99285,3432,Medium,73.9882,1
+Post_389,Instagram,#Fitness,Shorts,Japan,4582997,440332,73379,85,Low,11.2109,0
+Post_392,Instagram,#Music,Shorts,Canada,2267018,137209,75303,31685,Low,10.7717,0
+Post_396,Instagram,#Fashion,Live Stream,Canada,4151557,244562,87770,44396,Low,9.0744,0
+Post_400,Instagram,#Education,Shorts,Brazil,378823,448944,80149,42580,Low,150.9077,1
+Post_403,Instagram,#Challenge,Live Stream,Australia,901819,73906,1462,12876,Low,9.7851,0
+Post_404,Instagram,#Education,Live Stream,UK,1924813,188326,41895,37760,Medium,13.9224,0
+Post_406,Instagram,#Education,Live Stream,Canada,166638,52495,86474,5523,Low,86.7101,1
+Post_408,Instagram,#Viral,Shorts,Brazil,908633,408446,85164,12149,High,55.6615,1
+Post_419,Instagram,#Education,Post,Brazil,446706,4264,75452,14816,High,21.162,0
+Post_420,Instagram,#Fitness,Live Stream,UK,951304,342048,65047,35490,Medium,46.524,1
+Post_423,Instagram,#Comedy,Tweet,UK,3592472,80185,16999,48101,Medium,4.0442,0
+Post_424,Instagram,#Challenge,Live Stream,Canada,3592674,160629,8445,9171,Medium,4.9613,0
+Post_427,Instagram,#Education,Shorts,Australia,4686957,109616,68468,40709,Medium,4.6681,0
+Post_432,Instagram,#Viral,Video,Japan,2573525,244672,62989,24852,Low,12.9205,0
+Post_433,Instagram,#Music,Video,Germany,693490,271218,30947,20950,Medium,46.5926,1
+Post_434,Instagram,#Gaming,Shorts,Germany,1190294,180949,16220,16017,Medium,17.9104,0
+Post_435,Instagram,#Gaming,Video,Germany,1646518,98332,62494,12314,High,10.5155,0
+Post_447,Instagram,#Gaming,Live Stream,India,3335657,417475,40236,4254,Low,13.8493,0
+Post_454,Instagram,#Education,Shorts,Canada,2388920,44750,78711,21652,Low,6.0744,0
+Post_459,Instagram,#Viral,Shorts,Brazil,3848863,404283,78130,41057,Low,13.6006,0
+Post_463,Instagram,#Dance,Shorts,India,1926503,103365,58675,33276,High,10.1384,0
+Post_464,Instagram,#Challenge,Live Stream,UK,2167670,198784,96952,26902,Medium,14.8841,0
+Post_465,Instagram,#Fashion,Video,Germany,1083140,309982,34255,33816,High,34.9034,0
+Post_466,Instagram,#Fashion,Post,UK,4398342,308054,29831,3366,Medium,7.7586,0
+Post_470,Instagram,#Viral,Live Stream,UK,275149,149844,9065,35899,Medium,70.8009,1
+Post_475,Instagram,#Challenge,Live Stream,USA,1137375,118437,23946,24358,High,14.6602,0
+Post_478,Instagram,#Fashion,Video,UK,2984034,227827,65757,27104,High,10.7468,0
+Post_480,Instagram,#Music,Shorts,Brazil,3683276,428789,65984,5073,High,13.5707,0
+Post_481,Instagram,#Dance,Shorts,UK,2836012,183713,10028,21436,Medium,7.5873,0
+Post_483,Instagram,#Tech,Live Stream,UK,2682414,401508,59012,3275,High,17.2902,0
+Post_488,Instagram,#Dance,Post,USA,4533957,278567,60593,12923,Medium,7.7655,0
+Post_490,Instagram,#Gaming,Tweet,USA,1296124,435551,48934,49483,High,41.1973,1
+Post_498,Instagram,#Education,Tweet,Australia,3979197,313528,22858,39951,High,9.4576,0
+Post_501,Instagram,#Dance,Reel,UK,1576695,223136,3427,44738,High,17.2069,0
+Post_503,Instagram,#Fashion,Live Stream,Canada,3419646,34941,95591,9327,Medium,4.0899,0
+Post_513,Instagram,#Viral,Live Stream,USA,3237254,173375,36718,42896,High,7.8149,0
+Post_514,Instagram,#Dance,Post,USA,4197833,175063,73833,25225,Low,6.5301,0
+Post_515,Instagram,#Education,Post,Germany,514956,250127,90852,5413,Low,67.2663,1
+Post_533,Instagram,#Comedy,Shorts,India,4854685,134680,43340,2898,High,3.7267,0
+Post_539,Instagram,#Education,Video,UK,3713005,184413,88201,49856,Medium,8.6849,0
+Post_544,Instagram,#Comedy,Post,Brazil,4117289,476795,23810,7602,Low,12.3432,0
+Post_546,Instagram,#Fitness,Live Stream,USA,2359516,394171,34790,26112,High,19.2867,0
+Post_547,Instagram,#Viral,Post,Japan,3647993,361442,26848,22650,High,11.2648,0
+Post_551,Instagram,#Challenge,Live Stream,UK,4902801,457202,95950,35485,Medium,12.0061,0
+Post_557,Instagram,#Fitness,Post,Germany,129205,493844,93705,39629,High,485.4131,1
+Post_566,Instagram,#Viral,Video,Germany,90504,10397,53914,41748,High,117.1871,1
+Post_568,Instagram,#Tech,Video,UK,1357187,35801,70630,1191,High,7.9298,0
+Post_571,Instagram,#Fashion,Live Stream,Germany,1211898,301141,73729,34908,High,33.8129,0
+Post_575,Instagram,#Dance,Reel,Canada,4694304,15155,48834,46703,Low,2.358,0
+Post_578,Instagram,#Fashion,Post,Canada,2126836,135067,2582,34647,Medium,8.101,0
+Post_587,Instagram,#Education,Post,Germany,3839951,182675,74863,44718,High,7.8714,0
+Post_591,Instagram,#Comedy,Reel,Brazil,2002817,410588,47199,47032,Medium,25.2054,0
+Post_598,Instagram,#Dance,Video,India,3469085,404702,36285,25629,Medium,13.4507,0
+Post_599,Instagram,#Music,Video,Australia,2594914,369883,17225,14583,High,15.4799,0
+Post_601,Instagram,#Education,Tweet,Brazil,3329289,462737,18302,45849,High,15.8258,0
+Post_603,Instagram,#Education,Tweet,Germany,3177760,71183,55349,7595,Low,4.2208,0
+Post_605,Instagram,#Fashion,Tweet,India,3660613,40261,23562,5633,High,1.8974,0
+Post_613,Instagram,#Gaming,Live Stream,Australia,2912021,43497,37791,33220,Low,3.9323,0
+Post_617,Instagram,#Comedy,Shorts,Brazil,201259,367757,67851,45250,Medium,238.925,1
+Post_618,Instagram,#Gaming,Post,Canada,3053227,132150,49242,48892,High,7.5423,0
+Post_619,Instagram,#Comedy,Reel,Canada,3118393,322469,26532,6589,Low,11.403,0
+Post_621,Instagram,#Dance,Reel,India,165577,133518,14606,30419,Medium,107.8308,1
+Post_630,Instagram,#Challenge,Video,USA,3423533,418109,14637,33581,High,13.6212,0
+Post_636,Instagram,#Music,Shorts,India,2696673,362090,41445,36790,Low,16.3285,0
+Post_638,Instagram,#Tech,Shorts,UK,1054049,117855,67726,591,Medium,17.6626,0
+Post_641,Instagram,#Music,Post,Germany,4892331,362512,17927,27598,High,8.3403,0
+Post_642,Instagram,#Fashion,Live Stream,Japan,1525908,329931,54223,25867,Low,26.8706,0
+Post_643,Instagram,#Music,Video,Japan,856528,312624,35540,22068,Medium,43.2247,1
+Post_644,Instagram,#Fashion,Post,UK,3223480,57651,25366,32746,High,3.5912,0
+Post_650,Instagram,#Gaming,Shorts,Brazil,2941067,289340,10029,28904,Medium,11.1617,0
+Post_652,Instagram,#Comedy,Tweet,India,1161779,21780,4078,38033,Medium,5.4994,0
+Post_659,Instagram,#Fashion,Post,Germany,2231843,28171,73427,16948,Medium,5.3116,0
+Post_662,Instagram,#Dance,Post,Germany,1156532,111161,31021,33505,Low,15.1908,0
+Post_665,Instagram,#Gaming,Shorts,USA,403838,145096,88439,14064,Medium,61.3115,1
+Post_670,Instagram,#Tech,Tweet,Australia,3428187,328693,57651,18330,High,11.8043,0
+Post_678,Instagram,#Fashion,Post,Japan,4446628,475059,19789,42455,High,12.0834,0
+Post_679,Instagram,#Music,Post,Brazil,3951368,249468,17548,43162,High,7.8499,0
+Post_680,Instagram,#Tech,Video,Brazil,1904069,426897,58669,35210,High,27.3507,0
+Post_683,Instagram,#Music,Reel,UK,2754301,439047,21451,5036,High,16.9021,0
+Post_685,Instagram,#Fitness,Reel,Australia,3471793,286422,67665,17667,Medium,10.7078,0
+Post_688,Instagram,#Comedy,Live Stream,India,4827016,404958,45968,18554,Medium,9.7261,0
+Post_690,Instagram,#Tech,Live Stream,Australia,490952,347826,72833,14756,Low,88.6879,1
+Post_691,Instagram,#Music,Post,Canada,2180014,59373,52726,17442,Low,5.9422,0
+Post_693,Instagram,#Dance,Shorts,USA,3761264,443176,12191,48340,Medium,13.392,0
+Post_694,Instagram,#Comedy,Video,Canada,1038860,442713,28298,40618,Medium,49.2491,1
+Post_695,Instagram,#Dance,Live Stream,Germany,3444824,395141,90673,32852,Medium,15.0564,0
+Post_698,Instagram,#Gaming,Video,UK,4913774,12582,38213,46700,Medium,1.9841,0
+Post_705,Instagram,#Tech,Shorts,Australia,1180913,389245,42150,40241,Medium,39.9383,1
+Post_710,Instagram,#Gaming,Shorts,UK,3300636,334680,8400,33207,High,11.4004,0
+Post_712,Instagram,#Fashion,Live Stream,Japan,474320,437976,64949,13571,High,108.8919,1
+Post_716,Instagram,#Challenge,Post,USA,1301582,36572,45582,45435,Low,9.8026,0
+Post_723,Instagram,#Music,Live Stream,USA,1780899,301959,74275,6214,High,21.475,0
+Post_728,Instagram,#Music,Shorts,Japan,898563,298465,57845,44877,Medium,44.6476,1
+Post_730,Instagram,#Comedy,Shorts,Australia,2411448,166605,3962,42255,High,8.8255,0
+Post_737,Instagram,#Fashion,Video,UK,2729253,430030,34573,45325,High,18.6838,0
+Post_738,Instagram,#Music,Shorts,India,3287384,381894,81089,14284,Medium,14.5181,0
+Post_741,Instagram,#Dance,Shorts,India,1418058,404349,98335,45229,Low,38.6383,0
+Post_747,Instagram,#Comedy,Tweet,USA,1219230,350006,94280,32133,Medium,39.0754,0
+Post_757,Instagram,#Fitness,Post,Japan,1492331,319292,58566,8303,Medium,25.8764,0
+Post_758,Instagram,#Comedy,Shorts,UK,4522021,494856,7995,29137,High,11.7644,0
+Post_759,Instagram,#Challenge,Tweet,USA,845352,425767,96744,44548,High,67.0796,1
+Post_761,Instagram,#Tech,Reel,Australia,4975026,113245,73842,39396,Medium,4.5524,0
+Post_762,Instagram,#Education,Tweet,Brazil,407083,378368,12296,17307,Low,100.2181,1
+Post_768,Instagram,#Comedy,Reel,Brazil,1900224,443095,32294,12162,Medium,25.6576,0
+Post_773,Instagram,#Challenge,Shorts,Japan,282212,325960,23903,6061,Low,126.1194,1
+Post_774,Instagram,#Viral,Tweet,Australia,3827339,405141,10660,18414,High,11.3451,0
+Post_775,Instagram,#Education,Shorts,Australia,3200135,357852,8303,1186,Low,11.4789,0
+Post_781,Instagram,#Dance,Post,Japan,2392740,416629,25611,32521,Low,19.8417,0
+Post_784,Instagram,#Education,Live Stream,Australia,1050122,497180,25187,19816,Low,51.6305,1
+Post_796,Instagram,#Fitness,Shorts,UK,4490630,166824,45589,4926,Low,4.8398,0
+Post_797,Instagram,#Challenge,Post,Australia,2809655,296700,36554,5867,Low,12.0698,0
+Post_798,Instagram,#Comedy,Post,India,3538605,454950,72220,19322,Low,15.4437,0
+Post_801,Instagram,#Dance,Reel,Canada,34258,99120,37011,3149,High,406.562,1
+Post_802,Instagram,#Gaming,Video,UK,1037736,375246,34403,29942,Low,42.3606,1
+Post_807,Instagram,#Gaming,Reel,Japan,1230975,481442,80512,3147,Low,45.9068,1
+Post_813,Instagram,#Fitness,Post,Australia,998555,225198,8583,34716,Low,26.8886,0
+Post_814,Instagram,#Dance,Video,India,4214277,491365,16797,37101,Medium,12.9385,0
+Post_817,Instagram,#Gaming,Reel,India,591094,112899,37633,24431,High,29.5999,0
+Post_819,Instagram,#Fitness,Live Stream,Japan,1365802,451503,91330,25121,Low,41.5839,1
+Post_821,Instagram,#Education,Video,Canada,224135,47344,43245,29392,High,53.5307,1
+Post_824,Instagram,#Viral,Reel,India,947923,487612,46542,10658,Low,57.4743,1
+Post_825,Instagram,#Gaming,Reel,Japan,102983,341704,82374,8883,Low,420.4199,1
+Post_834,Instagram,#Challenge,Shorts,India,4613593,197157,10941,47136,High,5.5322,0
+Post_835,Instagram,#Tech,Shorts,UK,3678203,106484,25338,25691,High,4.2823,0
+Post_836,Instagram,#Fitness,Tweet,USA,2609916,421798,69244,20168,High,19.5872,0
+Post_837,Instagram,#Music,Video,Canada,636678,43943,48909,41810,Medium,21.1507,0
+Post_841,Instagram,#Comedy,Post,Brazil,4754509,424316,30621,18374,Medium,9.955,0
+Post_843,Instagram,#Comedy,Reel,USA,3545758,365667,98281,27784,High,13.8682,0
+Post_845,Instagram,#Gaming,Tweet,Japan,3481771,299306,45796,27535,Low,10.7025,0
+Post_847,Instagram,#Education,Video,India,735190,421586,62738,38778,Low,71.1519,1
+Post_848,Instagram,#Challenge,Tweet,Brazil,2635991,187823,29537,46857,Low,10.0234,0
+Post_849,Instagram,#Dance,Reel,UK,350307,4331,1623,26850,High,9.3644,0
+Post_857,Instagram,#Challenge,Shorts,Japan,75331,386738,46627,6927,Medium,584.4765,1
+Post_859,Instagram,#Challenge,Reel,Germany,4483470,117945,55358,30073,High,4.5361,0
+Post_861,Instagram,#Dance,Tweet,Canada,224458,277150,61218,38779,Medium,168.0256,1
+Post_862,Instagram,#Fitness,Shorts,USA,3139127,70363,97084,127,Low,5.3382,0
+Post_866,Instagram,#Tech,Post,India,4363523,488878,8230,3369,Low,11.4696,0
+Post_868,Instagram,#Comedy,Video,Australia,2121725,45509,307,8958,Low,2.5816,0
+Post_871,Instagram,#Music,Reel,Canada,1949651,348513,25769,15034,Medium,19.9685,0
+Post_877,Instagram,#Dance,Reel,Australia,3822658,16287,899,13106,High,0.7924,0
+Post_881,Instagram,#Tech,Tweet,Canada,911320,397818,13388,26310,High,48.009,1
+Post_893,Instagram,#Tech,Tweet,USA,410444,256366,76964,9098,Medium,83.4287,1
+Post_905,Instagram,#Education,Live Stream,Brazil,132001,419371,71316,39401,Medium,401.5788,1
+Post_907,Instagram,#Fitness,Live Stream,USA,2309871,288470,79217,46717,High,17.9406,0
+Post_909,Instagram,#Education,Video,Canada,3373468,255416,34814,25166,Medium,9.3493,0
+Post_917,Instagram,#Comedy,Reel,Canada,454350,156235,70705,24595,Low,55.3615,1
+Post_921,Instagram,#Viral,Tweet,Germany,2888239,421574,35987,16821,Medium,16.4246,0
+Post_922,Instagram,#Dance,Tweet,Canada,850931,6573,15362,16594,Medium,4.5279,0
+Post_924,Instagram,#Dance,Video,India,247234,296015,55319,39566,Low,158.1093,1
+Post_929,Instagram,#Fitness,Tweet,USA,1115324,415045,34081,31910,Low,43.1297,1
+Post_931,Instagram,#Education,Reel,Japan,4008179,455643,63634,37656,Low,13.8949,0
+Post_935,Instagram,#Tech,Reel,Australia,1420653,40254,15175,14173,Medium,4.8993,0
+Post_941,Instagram,#Viral,Live Stream,UK,2989338,479456,99198,24250,Medium,20.1685,0
+Post_946,Instagram,#Comedy,Video,Japan,3808187,142833,22552,23672,High,4.9645,0
+Post_953,Instagram,#Viral,Live Stream,Japan,507910,439117,23000,36313,High,98.1335,1
+Post_967,Instagram,#Fitness,Reel,UK,1803252,274745,62197,45341,Medium,21.1996,0
+Post_969,Instagram,#Music,Live Stream,Canada,3154913,367384,25852,41170,High,13.7692,0
+Post_971,Instagram,#Music,Live Stream,Germany,1907181,338676,59140,30282,Low,22.4466,0
+Post_972,Instagram,#Dance,Reel,Australia,483039,282741,24926,37989,Low,71.5586,1
+Post_976,Instagram,#Fitness,Shorts,Japan,2533284,189339,96463,9657,Low,11.6631,0
+Post_977,Instagram,#Viral,Post,Canada,1444784,440354,41263,32270,Low,35.5684,0
+Post_986,Instagram,#Comedy,Video,India,2109687,81944,74586,22335,High,8.4783,0
+Post_988,Instagram,#Dance,Live Stream,Australia,2352184,486228,59382,26190,Medium,24.3093,0
+Post_996,Instagram,#Tech,Tweet,Germany,2707572,230179,53270,6352,High,10.7034,0
+Post_998,Instagram,#Tech,Reel,Brazil,4190005,84964,50369,19038,High,3.6843,0
+Post_1002,Instagram,#Comedy,Shorts,UK,3415328,118469,14421,17676,Low,4.4085,0
+Post_1003,Instagram,#Fitness,Video,Japan,3458904,231857,64606,40429,Medium,9.7398,0
+Post_1006,Instagram,#Education,Tweet,Brazil,2362909,209360,42036,10082,High,11.0659,0
+Post_1007,Instagram,#Challenge,Video,Canada,2980875,23957,13444,22622,High,2.0136,0
+Post_1010,Instagram,#Music,Live Stream,USA,3284675,375788,31851,4538,High,12.5485,0
+Post_1011,Instagram,#Challenge,Reel,USA,1558041,407000,95826,14793,Medium,33.2224,0
+Post_1015,Instagram,#Dance,Live Stream,Australia,251154,309987,21850,21949,Low,140.8642,1
+Post_1023,Instagram,#Gaming,Tweet,Australia,235741,197273,83423,15114,High,125.4809,1
+Post_1029,Instagram,#Tech,Live Stream,USA,4650686,35344,74563,32695,High,3.0663,0
+Post_1030,Instagram,#Comedy,Shorts,Germany,473893,391296,16786,34510,Low,93.3949,1
+Post_1031,Instagram,#Comedy,Live Stream,India,2350338,117930,10242,49338,Medium,7.5525,0
+Post_1034,Instagram,#Education,Tweet,Australia,11338,379782,86100,44273,Medium,4499.5149,1
+Post_1035,Instagram,#Gaming,Shorts,Brazil,1878293,135556,66131,1905,High,10.8392,0
+Post_1036,Instagram,#Challenge,Reel,India,1939855,270361,16051,48568,Medium,17.2683,0
+Post_1042,Instagram,#Comedy,Video,UK,4796296,473059,1016,10919,Medium,10.1118,0
+Post_1044,Instagram,#Viral,Video,Japan,4298093,313918,75168,21454,High,9.5517,0
+Post_1045,Instagram,#Comedy,Tweet,Japan,2685008,312885,79634,27209,Medium,15.6323,0
+Post_1049,Instagram,#Fashion,Tweet,India,454490,367108,6386,33172,Low,89.4774,1
+Post_1053,Instagram,#Dance,Shorts,Canada,2414079,453772,12971,44775,Medium,21.189,0
+Post_1059,Instagram,#Tech,Live Stream,India,4031260,489680,10003,38423,High,13.3483,0
+Post_1065,Instagram,#Gaming,Reel,India,3147828,488798,11213,28108,Low,16.7773,0
+Post_1074,Instagram,#Comedy,Post,UK,1263647,322686,75202,21411,High,33.1817,0
+Post_1080,Instagram,#Dance,Tweet,USA,4841137,431351,625,19075,Medium,9.317,0
+Post_1082,Instagram,#Music,Live Stream,Brazil,1889541,357123,24263,35214,Low,22.0477,0
+Post_1083,Instagram,#Fashion,Video,Brazil,353263,473924,71436,3303,High,155.3129,1
+Post_1084,Instagram,#Tech,Video,Canada,2385749,319160,12581,37720,Low,15.4862,0
+Post_1086,Instagram,#Music,Reel,Germany,4826724,359660,68209,1169,High,8.8888,0
+Post_1089,Instagram,#Education,Video,India,2780722,130632,4458,42849,Medium,6.399,0
+Post_1093,Instagram,#Dance,Post,Canada,3724442,459724,55807,9912,Medium,14.108,0
+Post_1094,Instagram,#Gaming,Tweet,Brazil,4170208,315259,26019,37399,Medium,9.0805,0
+Post_1103,Instagram,#Viral,Tweet,Australia,4113719,371010,23116,29531,Low,10.2986,0
+Post_1109,Instagram,#Gaming,Post,Canada,4284095,435610,44348,35611,High,12.0345,0
+Post_1117,Instagram,#Fitness,Shorts,USA,1513083,352786,90781,29795,Low,31.2846,0
+Post_1121,Instagram,#Viral,Tweet,Germany,4746014,29305,89872,16323,Medium,2.855,0
+Post_1132,Instagram,#Fitness,Live Stream,UK,2085067,227030,40851,2906,Low,12.987,0
+Post_1133,Instagram,#Viral,Live Stream,India,4121250,73511,93273,36056,Medium,4.9218,0
+Post_1138,Instagram,#Challenge,Reel,UK,4248915,261493,87021,28833,Medium,8.881,0
+Post_1153,Instagram,#Dance,Reel,Canada,2912775,178086,11014,25511,Medium,7.3679,0
+Post_1157,Instagram,#Tech,Reel,Canada,4018134,476460,96568,48685,Medium,15.4727,0
+Post_1158,Instagram,#Tech,Video,Brazil,1135196,106116,41569,21497,Medium,14.9033,0
+Post_1160,Instagram,#Music,Live Stream,Germany,312301,376135,50291,40981,High,149.6655,1
+Post_1161,Instagram,#Dance,Shorts,Brazil,2930383,479741,220,33112,Low,17.5087,0
+Post_1165,Instagram,#Fashion,Reel,Germany,2808211,93056,17427,27332,Low,4.9076,0
+Post_1173,Instagram,#Education,Tweet,USA,3123278,298146,8587,1236,Low,9.8604,0
+Post_1177,Instagram,#Fashion,Reel,Brazil,3599873,278305,77717,19512,Low,10.4319,0
+Post_1180,Instagram,#Tech,Post,Germany,2836169,142049,19440,32540,High,6.8412,0
+Post_1181,Instagram,#Fashion,Tweet,Australia,3207625,410976,85117,37271,Low,16.628,0
+Post_1199,Instagram,#Education,Video,USA,4029746,268583,97064,12067,Low,9.3731,0
+Post_1202,Instagram,#Fitness,Live Stream,UK,4184048,287717,88326,45451,Medium,10.0738,0
+Post_1204,Instagram,#Education,Video,USA,1171718,339285,76401,22897,High,37.4308,0
+Post_1209,Instagram,#Gaming,Tweet,India,3589308,407373,70852,20849,High,13.9045,0
+Post_1211,Instagram,#Education,Reel,UK,2315963,306373,6915,33050,Medium,14.9544,0
+Post_1213,Instagram,#Viral,Video,Canada,2950546,305105,99587,34102,Medium,14.8716,0
+Post_1222,Instagram,#Education,Live Stream,Germany,1374292,468164,79559,11612,Low,40.6999,1
+Post_1226,Instagram,#Tech,Reel,India,2904623,210629,93645,25652,High,11.3587,0
+Post_1230,Instagram,#Music,Video,UK,436676,411915,89675,24765,Low,120.5367,1
+Post_1231,Instagram,#Challenge,Tweet,Germany,1021135,442784,49480,32668,High,51.4067,1
+Post_1233,Instagram,#Fitness,Reel,Canada,80333,106027,74544,43880,Low,279.4007,1
+Post_1247,Instagram,#Education,Post,Canada,3188483,368317,49091,21981,Low,13.7805,0
+Post_1254,Instagram,#Viral,Video,Brazil,3442475,429165,1181,16421,Medium,12.9781,0
+Post_1261,Instagram,#Tech,Video,Germany,1368137,220395,47904,42984,Low,22.7523,0
+Post_1262,Instagram,#Comedy,Shorts,Brazil,1753723,413003,90078,39688,High,30.9495,0
+Post_1265,Instagram,#Dance,Tweet,Germany,2213124,480760,63167,20082,High,25.4847,0
+Post_1272,Instagram,#Comedy,Tweet,Australia,2428341,178208,2717,10620,High,7.8879,0
+Post_1273,Instagram,#Music,Reel,Australia,1934060,55050,41483,39848,Medium,7.0515,0
+Post_1275,Instagram,#Challenge,Shorts,India,4618662,1774,38568,31300,Low,1.5511,0
+Post_1278,Instagram,#Fashion,Post,India,136708,9741,60279,1977,Medium,52.6648,1
+Post_1281,Instagram,#Challenge,Shorts,Canada,3373662,127818,52586,17121,Medium,5.8549,0
+Post_1289,Instagram,#Gaming,Post,Brazil,946358,304294,25948,35055,Low,38.6003,0
+Post_1293,Instagram,#Dance,Post,Canada,3105914,310842,86059,25445,Low,13.5981,0
+Post_1298,Instagram,#Music,Live Stream,UK,643763,472554,57987,11509,High,84.2002,1
+Post_1305,Instagram,#Challenge,Live Stream,UK,3171066,339557,4006,12554,Medium,11.2302,0
+Post_1315,Instagram,#Education,Reel,Canada,330476,485696,2619,4585,Low,149.1485,1
+Post_1319,Instagram,#Dance,Video,Brazil,1179104,355660,14269,32625,Medium,34.1407,0
+Post_1321,Instagram,#Fashion,Live Stream,India,739337,157550,81164,9915,Medium,33.6286,0
+Post_1324,Instagram,#Challenge,Post,Brazil,449348,35182,4716,18161,High,12.9207,0
+Post_1327,Instagram,#Fashion,Tweet,Brazil,4007152,432650,96770,7738,Medium,13.405,0
+Post_1329,Instagram,#Viral,Reel,Canada,4223266,5635,13422,13879,Low,0.7799,0
+Post_1337,Instagram,#Education,Live Stream,Germany,2277825,468829,14948,24904,Low,22.3319,0
+Post_1341,Instagram,#Viral,Reel,Japan,2449412,260270,93639,48015,Medium,16.409,0
+Post_1342,Instagram,#Fashion,Video,Germany,3525460,12794,64359,44733,Low,3.4573,0
+Post_1344,Instagram,#Fashion,Reel,Australia,2884482,205837,18884,34478,High,8.986,0
+Post_1355,Instagram,#Comedy,Live Stream,India,4880933,424044,36411,15765,Low,9.7567,0
+Post_1357,Instagram,#Viral,Live Stream,Germany,1591371,457773,5808,24319,High,30.6591,0
+Post_1359,Instagram,#Music,Shorts,Germany,4747943,215327,30817,27401,High,5.7613,0
+Post_1371,Instagram,#Challenge,Tweet,Australia,1180989,109429,18098,33218,Medium,13.611,0
+Post_1373,Instagram,#Comedy,Reel,India,2744810,30544,94790,20833,Medium,5.3252,0
+Post_1376,Instagram,#Fashion,Live Stream,Germany,323411,56058,33031,39409,High,39.7321,1
+Post_1379,Instagram,#Education,Reel,India,3262393,454181,90442,5100,Low,16.8503,0
+Post_1384,Instagram,#Gaming,Tweet,Brazil,3717231,417599,10888,30642,Low,12.3514,0
+Post_1400,Instagram,#Comedy,Live Stream,Australia,23823,40878,92816,32364,Medium,697.0491,1
+Post_1405,Instagram,#Music,Post,UK,1749951,204875,35997,12109,Low,14.4565,0
+Post_1408,Instagram,#Gaming,Post,UK,4096709,436110,99307,43672,Medium,14.1355,0
+Post_1410,Instagram,#Fashion,Tweet,UK,183630,124969,28636,6719,Low,87.3082,1
+Post_1411,Instagram,#Fitness,Shorts,Canada,1270114,443977,12624,5006,Medium,36.3437,0
+Post_1414,Instagram,#Dance,Tweet,USA,1253544,142240,4875,24089,Medium,13.6576,0
+Post_1415,Instagram,#Music,Video,Japan,1581916,469936,5231,20186,Low,31.3135,0
+Post_1417,Instagram,#Fitness,Live Stream,USA,1760362,304604,96372,32740,High,24.6379,0
+Post_1418,Instagram,#Education,Video,Australia,2065185,429022,80506,34002,Medium,26.3187,0
+Post_1420,Instagram,#Viral,Post,India,1834220,276597,79599,22457,Low,20.6438,0
+Post_1424,Instagram,#Music,Tweet,Germany,1401937,135014,42756,42886,High,15.7394,0
+Post_1430,Instagram,#Viral,Live Stream,UK,538315,258979,34138,31038,Medium,60.2166,1
+Post_1437,Instagram,#Music,Live Stream,Japan,2243545,436598,7615,11674,Medium,20.3199,0
+Post_1438,Instagram,#Education,Reel,Canada,1786017,418903,61845,42763,Medium,29.3116,0
+Post_1449,Instagram,#Comedy,Post,Japan,4059730,479772,15896,35015,Medium,13.0719,0
+Post_1455,Instagram,#Challenge,Video,Germany,3262707,322516,95255,21585,High,13.466,0
+Post_1456,Instagram,#Music,Post,Canada,3707557,238257,87810,32469,Medium,9.6704,0
+Post_1462,Instagram,#Dance,Video,UK,712815,321009,10779,9754,Low,47.9145,1
+Post_1464,Instagram,#Education,Tweet,Japan,322957,396843,98493,11487,Low,156.932,1
+Post_1467,Instagram,#Fitness,Shorts,Canada,2249841,97823,18276,5221,High,5.3924,0
+Post_1468,Instagram,#Dance,Shorts,Australia,1684281,409446,92094,7598,High,30.2288,0
+Post_1475,Instagram,#Challenge,Post,Germany,990310,94516,53191,6975,Medium,15.6196,0
+Post_1478,Instagram,#Viral,Shorts,India,4459322,130429,41640,43576,High,4.8358,0
+Post_1479,Instagram,#Comedy,Post,Brazil,4856239,463589,77615,15106,Medium,11.4556,0
+Post_1485,Instagram,#Comedy,Post,Germany,671118,362241,15395,711,High,56.3756,1
+Post_1493,Instagram,#Comedy,Tweet,Germany,4751448,53228,671,10009,High,1.345,0
+Post_1495,Instagram,#Challenge,Live Stream,Australia,4727831,399257,28383,10368,Low,9.2645,0
+Post_1497,Instagram,#Challenge,Post,Germany,735519,381334,90166,35476,Medium,68.9277,1
+Post_1502,Instagram,#Comedy,Video,Canada,3239663,288436,94297,5399,High,11.9806,0
+Post_1505,Instagram,#Gaming,Reel,USA,4631785,399114,43028,19189,High,9.9601,0
+Post_1506,Instagram,#Education,Tweet,Canada,3923269,38803,3269,25920,High,1.733,0
+Post_1507,Instagram,#Comedy,Tweet,Germany,1684045,237632,16203,33795,Low,17.0797,0
+Post_1514,Instagram,#Gaming,Post,Canada,18259,325660,50504,27761,Low,2212.1967,1
+Post_1518,Instagram,#Tech,Shorts,Brazil,2804201,214403,58405,45421,High,11.3483,0
+Post_1521,Instagram,#Gaming,Shorts,India,3433826,11737,47228,22379,Medium,2.3689,0
+Post_1522,Instagram,#Challenge,Live Stream,USA,807398,175697,86610,31176,Low,36.3492,0
+Post_1529,Instagram,#Tech,Shorts,India,4854421,486650,86108,46638,Medium,12.7594,0
+Post_1534,Instagram,#Gaming,Video,Germany,2048086,191738,99853,42598,Low,16.3171,0
+Post_1537,Instagram,#Gaming,Reel,USA,991012,355863,94626,26180,High,48.0992,1
+Post_1540,Instagram,#Fitness,Reel,USA,1913736,54523,2152,11464,High,3.5605,0
+Post_1541,Instagram,#Comedy,Live Stream,Japan,4323,301571,81786,30318,Low,9569.1649,1
+Post_1547,Instagram,#Comedy,Shorts,USA,1664101,117775,50763,42936,High,12.708,0
+Post_1564,Instagram,#Tech,Reel,UK,3642505,472553,83616,25351,Low,15.9648,0
+Post_1567,Instagram,#Challenge,Reel,Australia,797275,354616,31544,29280,High,52.1075,1
+Post_1568,Instagram,#Tech,Reel,Canada,1146819,153532,13633,27160,Medium,16.9447,0
+Post_1572,Instagram,#Fitness,Reel,India,4956932,128560,68871,43838,Medium,4.8673,0
+Post_1574,Instagram,#Viral,Video,UK,1131722,340105,73373,11857,Medium,37.583,0
+Post_1582,Instagram,#Comedy,Tweet,UK,2851192,57367,19782,37567,Low,4.0234,0
+Post_1588,Instagram,#Viral,Live Stream,Japan,3830274,264013,37812,25236,Low,8.5388,0
+Post_1589,Instagram,#Fitness,Post,Japan,4277170,471076,43675,21460,Medium,12.5366,0
+Post_1590,Instagram,#Music,Reel,Australia,1586403,28598,85817,46074,Medium,10.1165,0
+Post_1595,Instagram,#Music,Post,UK,2150898,109954,6366,25896,Low,6.6119,0
+Post_1600,Instagram,#Music,Shorts,Germany,3985221,262934,82583,19181,Medium,9.1513,0
+Post_1605,Instagram,#Fitness,Tweet,Australia,2316764,98083,89325,34220,Low,9.5663,0
+Post_1606,Instagram,#Fitness,Video,Australia,2463746,310242,10086,38862,High,14.579,0
+Post_1608,Instagram,#Fitness,Reel,Australia,3418348,292153,51497,30601,Low,10.9483,0
+Post_1609,Instagram,#Fitness,Post,Brazil,1057426,357002,30426,49349,Low,41.3057,1
+Post_1610,Instagram,#Dance,Live Stream,Canada,685984,84562,38364,24145,High,21.4394,0
+Post_1612,Instagram,#Education,Live Stream,Brazil,2341476,187857,88914,17369,High,12.5622,0
+Post_1613,Instagram,#Education,Shorts,USA,4473721,373738,40435,43313,Medium,10.2261,0
+Post_1615,Instagram,#Viral,Post,Germany,155818,50777,5658,26194,Medium,53.0292,1
+Post_1617,Instagram,#Fitness,Shorts,India,1876999,457119,16393,27762,Medium,26.7061,0
+Post_1618,Instagram,#Education,Shorts,UK,55629,280770,79724,33789,Medium,708.7724,1
+Post_1625,Instagram,#Tech,Video,Brazil,4003118,146736,23416,41111,Medium,5.2775,0
+Post_1646,Instagram,#Fashion,Post,Australia,2149093,4283,97823,25162,Medium,5.9219,0
+Post_1656,Instagram,#Fitness,Tweet,USA,4141357,340428,36529,4526,High,9.2115,0
+Post_1658,Instagram,#Fitness,Video,Japan,1577124,190567,91953,34496,Low,20.1009,0
+Post_1670,Instagram,#Challenge,Video,India,1087661,285688,15615,4887,Medium,28.1512,0
+Post_1672,Instagram,#Challenge,Live Stream,Germany,3925001,142073,88617,35526,Low,6.7826,0
+Post_1674,Instagram,#Fashion,Tweet,USA,4330176,205339,6335,41452,Low,5.8456,0
+Post_1676,Instagram,#Education,Reel,Brazil,4975345,155558,52987,25353,Medium,4.7011,0
+Post_1677,Instagram,#Fitness,Post,Brazil,3675490,253771,62578,7498,Low,8.811,0
+Post_1682,Instagram,#Education,Tweet,Japan,1582423,386088,53051,35424,Low,29.9896,0
+Post_1690,Instagram,#Music,Reel,USA,3237142,326165,92290,9091,High,13.2075,0
+Post_1692,Instagram,#Comedy,Tweet,Germany,1586264,161483,51284,11309,Low,14.126,0
+Post_1705,Instagram,#Viral,Live Stream,Germany,3470216,158438,3224,37495,Low,5.739,0
+Post_1707,Instagram,#Gaming,Shorts,India,4510453,78761,81693,35386,High,4.3419,0
+Post_1712,Instagram,#Education,Live Stream,Canada,4431420,316236,20710,28465,High,8.2459,0
+Post_1716,Instagram,#Challenge,Live Stream,Canada,4986208,327244,16672,27570,Medium,7.4503,0
+Post_1722,Instagram,#Challenge,Tweet,Brazil,973433,191321,5664,41928,Medium,24.5433,0
+Post_1725,Instagram,#Gaming,Shorts,India,4798066,375356,7649,17000,Low,8.3368,0
+Post_1726,Instagram,#Music,Reel,Germany,141212,41508,96422,16803,High,109.575,1
+Post_1727,Instagram,#Music,Video,Australia,4432570,202923,40150,18413,Medium,5.8992,0
+Post_1729,Instagram,#Gaming,Video,Germany,2717115,79019,55167,42735,Medium,6.5114,0
+Post_1733,Instagram,#Challenge,Video,Australia,4039664,215178,17518,34782,Medium,6.6213,0
+Post_1738,Instagram,#Dance,Tweet,USA,2536643,205972,96758,48582,Low,13.8495,0
+Post_1744,Instagram,#Comedy,Shorts,Brazil,336698,348443,1797,2675,Medium,104.8165,1
+Post_1754,Instagram,#Challenge,Video,USA,1984433,210428,28342,5355,Medium,12.302,0
+Post_1766,Instagram,#Challenge,Live Stream,Germany,1876071,259700,34498,9001,High,16.1614,0
+Post_1769,Instagram,#Challenge,Tweet,Germany,3656215,348583,16646,48049,High,11.3034,0
+Post_1772,Instagram,#Music,Shorts,USA,1750615,413287,91905,18325,Low,29.9047,0
+Post_1776,Instagram,#Gaming,Reel,Germany,898361,447804,83016,38408,Low,63.3629,1
+Post_1778,Instagram,#Fashion,Post,Canada,194757,207872,13510,3589,Medium,115.5137,1
+Post_1779,Instagram,#Fashion,Tweet,Germany,438881,24059,8038,11310,High,9.8904,0
+Post_1787,Instagram,#Viral,Reel,India,2763725,53379,35169,6483,Medium,3.4385,0
+Post_1789,Instagram,#Challenge,Reel,India,3429630,163927,73040,10283,Medium,7.2092,0
+Post_1791,Instagram,#Fitness,Reel,USA,168561,82166,65838,18714,High,98.9066,1
+Post_1792,Instagram,#Tech,Tweet,Japan,3070332,34145,25996,24504,Medium,2.7569,0
+Post_1797,Instagram,#Education,Shorts,Brazil,3198439,108162,26927,16486,High,4.739,0
+Post_1798,Instagram,#Gaming,Live Stream,Japan,1144375,451097,98397,2912,Low,48.2714,1
+Post_1804,Instagram,#Viral,Reel,India,3814814,395537,75050,32906,High,13.1984,0
+Post_1808,Instagram,#Education,Post,Japan,337040,430802,63240,5638,Low,148.2554,1
+Post_1813,Instagram,#Comedy,Post,UK,1201764,142790,37404,42934,Medium,18.5667,0
+Post_1818,Instagram,#Music,Live Stream,Australia,4638513,226807,91716,9225,Low,7.0658,0
+Post_1822,Instagram,#Fitness,Post,UK,3927149,204604,48798,45548,High,7.6124,0
+Post_1823,Instagram,#Comedy,Shorts,Canada,1377720,464859,14355,4959,Medium,35.1431,0
+Post_1827,Instagram,#Fitness,Post,Japan,1598314,404896,69137,28060,Medium,31.4139,0
+Post_1828,Instagram,#Fitness,Video,India,784996,495718,72882,33474,Low,76.6977,1
+Post_1831,Instagram,#Challenge,Video,USA,3888420,106266,41933,5458,Low,3.9517,0
+Post_1842,Instagram,#Music,Reel,India,4997766,113205,99750,26950,Low,4.8002,0
+Post_1843,Instagram,#Dance,Live Stream,Canada,1715056,386316,69991,15257,High,27.4955,0
+Post_1859,Instagram,#Dance,Live Stream,Brazil,3358828,121374,48219,25068,High,5.7955,0
+Post_1861,Instagram,#Fitness,Live Stream,Canada,4515285,443710,6736,11422,High,10.229,0
+Post_1863,Instagram,#Viral,Reel,Australia,2206289,230130,40936,3040,Low,12.4238,0
+Post_1872,Instagram,#Tech,Shorts,India,301575,492868,95534,42034,High,209.0478,1
+Post_1874,Instagram,#Comedy,Tweet,Canada,4918275,335200,77799,37203,High,9.1537,0
+Post_1876,Instagram,#Music,Post,Canada,4914449,262719,19486,33696,Low,6.428,0
+Post_1879,Instagram,#Fashion,Tweet,Australia,1268878,234893,38551,46517,Medium,25.2161,0
+Post_1886,Instagram,#Challenge,Reel,Canada,849631,341563,84777,14097,High,51.8386,1
+Post_1893,Instagram,#Gaming,Live Stream,Brazil,503394,495368,92691,9122,Low,118.6309,1
+Post_1894,Instagram,#Dance,Video,USA,1160169,74584,94280,40793,High,18.0712,0
+Post_1896,Instagram,#Comedy,Shorts,Germany,3926645,474611,34435,33268,High,13.8111,0
+Post_1904,Instagram,#Tech,Post,Japan,661248,168503,49139,22125,Medium,36.2598,0
+Post_1919,Instagram,#Viral,Reel,Germany,3332344,128008,89553,23522,Medium,7.2346,0
+Post_1923,Instagram,#Gaming,Tweet,Brazil,4477668,192983,89916,41367,High,7.2418,0
+Post_1929,Instagram,#Viral,Video,Germany,1007595,473430,80078,49619,High,59.8581,1
+Post_1938,Instagram,#Tech,Tweet,India,1381662,487591,42788,34702,High,40.8986,1
+Post_1939,Instagram,#Gaming,Shorts,India,4461646,53583,54657,15128,Medium,2.7651,0
+Post_1940,Instagram,#Education,Video,Japan,1799797,411374,9924,10776,High,24.0068,0
+Post_1941,Instagram,#Music,Live Stream,India,4781276,315498,49235,27630,Low,8.2062,0
+Post_1944,Instagram,#Music,Video,Canada,4979028,496075,14684,23034,High,10.7208,0
+Post_1945,Instagram,#Dance,Shorts,Canada,2260054,333540,87685,15277,Medium,19.3138,0
+Post_1955,Instagram,#Gaming,Shorts,Australia,665714,301322,55816,38455,High,59.4239,1
+Post_1958,Instagram,#Tech,Shorts,India,875186,131418,55237,25538,High,24.2455,0
+Post_1963,Instagram,#Comedy,Reel,Canada,191209,33804,49670,39284,High,64.201,1
+Post_1968,Instagram,#Tech,Reel,Germany,1899136,434017,45642,47397,Low,27.7524,0
+Post_1974,Instagram,#Dance,Live Stream,Canada,73305,71221,51250,7922,Medium,177.8774,1
+Post_1977,Instagram,#Education,Reel,Germany,3727268,498148,22306,37966,Low,14.982,0
+Post_1980,Instagram,#Dance,Live Stream,UK,4385009,261366,12234,22595,Medium,6.7547,0
+Post_1983,Instagram,#Education,Post,USA,3919221,497249,2694,27576,Medium,13.4598,0
+Post_1990,Instagram,#Education,Reel,Australia,3076229,447588,97652,34103,Medium,18.8329,0
+Post_1993,Instagram,#Dance,Live Stream,USA,746440,448758,50483,27487,Low,70.5654,1
+Post_1994,Instagram,#Education,Tweet,Australia,3223735,484066,88547,2582,Medium,17.8425,0
+Post_2000,Instagram,#Tech,Video,USA,3921281,438744,24576,42634,Low,12.9028,0
+Post_2006,Instagram,#Education,Reel,Australia,402877,176794,55741,16724,Medium,61.8698,1
+Post_2007,Instagram,#Music,Shorts,Germany,3428385,275405,86829,48383,High,11.977,0
+Post_2008,Instagram,#Fitness,Reel,USA,4857009,234614,71215,2428,High,6.3466,0
+Post_2012,Instagram,#Dance,Shorts,Brazil,4866077,171830,79859,40217,Low,5.9988,0
+Post_2025,Instagram,#Dance,Video,Brazil,693717,257532,54285,10651,Medium,46.4841,1
+Post_2031,Instagram,#Music,Reel,Japan,412999,290694,82634,19326,Low,95.0738,1
+Post_2033,Instagram,#Comedy,Tweet,Australia,1163746,382193,79589,38016,High,42.9473,1
+Post_2034,Instagram,#Viral,Reel,Australia,2015897,214072,93955,9393,High,15.7458,0
+Post_2039,Instagram,#Music,Post,Brazil,2739421,200623,11202,32797,Low,8.9297,0
+Post_2042,Instagram,#Challenge,Reel,Australia,453984,374672,81490,46887,High,110.8076,1
+Post_2044,Instagram,#Gaming,Tweet,Australia,3646115,392151,88887,3518,High,13.2897,0
+Post_2047,Instagram,#Music,Live Stream,Australia,1973499,230125,44232,36873,High,15.7705,0
+Post_2053,Instagram,#Tech,Shorts,Brazil,1044357,263951,69315,12306,Medium,33.0895,0
+Post_2054,Instagram,#Challenge,Reel,India,2889449,114404,51912,46965,Medium,7.3814,0
+Post_2055,Instagram,#Fashion,Reel,Japan,2524434,362737,16212,26880,Medium,16.076,0
+Post_2056,Instagram,#Comedy,Post,Germany,2347498,130260,17988,37680,Low,7.9203,0
+Post_2070,Instagram,#Tech,Reel,Germany,3658771,290514,58998,36045,High,10.5379,0
+Post_2075,Instagram,#Fashion,Shorts,Australia,293601,338084,69736,30711,Medium,149.3629,1
+Post_2077,Instagram,#Education,Reel,Japan,453975,48308,60971,38116,Medium,32.4676,0
+Post_2078,Instagram,#Fitness,Post,India,356764,263855,20640,43357,Low,91.896,1
+Post_2080,Instagram,#Tech,Video,Australia,4203091,443042,43058,13463,Medium,11.8856,0
+Post_2082,Instagram,#Fitness,Shorts,USA,1396437,367349,24578,35760,Medium,30.627,0
+Post_2085,Instagram,#Tech,Post,Germany,142695,223095,15542,11469,Medium,175.2731,1
+Post_2090,Instagram,#Viral,Reel,India,1737131,359589,16428,25826,Low,23.1326,0
+Post_2093,Instagram,#Gaming,Tweet,USA,2430472,83691,70843,41634,Medium,8.0712,0
+Post_2094,Instagram,#Fashion,Shorts,USA,3010836,422269,58452,4866,High,16.128,0
+Post_2095,Instagram,#Fitness,Reel,Brazil,448051,256526,88555,9475,Medium,79.133,1
+Post_2100,Instagram,#Challenge,Reel,UK,2292806,162800,30173,43887,Medium,10.3306,0
+Post_2109,Instagram,#Challenge,Video,India,3886364,247013,99313,15416,High,9.308,0
+Post_2114,Instagram,#Challenge,Shorts,India,3692069,182095,72323,13292,Medium,7.2509,0
+Post_2118,Instagram,#Tech,Post,USA,2800983,294183,6110,21898,Low,11.5028,0
+Post_2122,Instagram,#Fashion,Reel,UK,2975538,428206,273,5526,Low,14.5858,0
+Post_2123,Instagram,#Gaming,Shorts,India,1518636,419030,5094,14494,Medium,28.8824,0
+Post_2125,Instagram,#Viral,Live Stream,USA,812313,84212,67698,12732,Medium,20.2683,0
+Post_2134,Instagram,#Comedy,Shorts,Brazil,3685642,89680,72848,26621,Low,5.1321,0
+Post_2137,Instagram,#Gaming,Reel,Australia,3894059,344593,93343,21314,Medium,11.7936,0
+Post_2140,Instagram,#Music,Reel,Brazil,2854637,188755,50133,48809,Low,10.0782,0
+Post_2141,Instagram,#Music,Video,Germany,1155651,50816,83762,21207,High,13.4803,0
+Post_2144,Instagram,#Fashion,Video,USA,4429431,5153,43971,14991,Low,1.4475,0
+Post_2149,Instagram,#Gaming,Tweet,Australia,1187542,417824,3004,33799,Low,38.283,0
+Post_2158,Instagram,#Viral,Video,Japan,3011767,223622,99894,9453,High,11.0556,0
+Post_2164,Instagram,#Gaming,Tweet,India,628363,74367,94257,13383,High,28.9653,0
+Post_2172,Instagram,#Viral,Video,India,933951,188820,89181,2551,High,30.0393,0
+Post_2178,Instagram,#Fashion,Live Stream,UK,2658996,329969,61578,12445,High,15.1934,0
+Post_2180,Instagram,#Viral,Tweet,Canada,4004581,192354,3305,2480,Low,4.9478,0
+Post_2182,Instagram,#Music,Live Stream,Canada,3148704,463587,9057,13811,Medium,15.4494,0
+Post_2191,Instagram,#Comedy,Live Stream,Canada,3712830,135258,87420,47950,High,7.289,0
+Post_2195,Instagram,#Fitness,Post,Germany,1615734,285555,68383,31687,Low,23.8669,0
+Post_2200,Instagram,#Challenge,Live Stream,Germany,3995291,237537,75689,38151,Medium,8.7948,0
+Post_2203,Instagram,#Fitness,Post,Germany,4913452,306350,2985,44655,Low,7.2045,0
+Post_2214,Instagram,#Challenge,Post,Brazil,261001,277498,57943,20924,Low,136.5378,1
+Post_2215,Instagram,#Fashion,Video,UK,1136022,158575,56196,15648,High,20.283,0
+Post_2218,Instagram,#Comedy,Video,Australia,213956,293513,50197,22937,Low,171.3656,1
+Post_2220,Instagram,#Viral,Video,India,517316,364221,48454,32308,High,86.0176,1
+Post_2221,Instagram,#Fitness,Tweet,Brazil,2776258,317373,95587,17971,High,15.522,0
+Post_2222,Instagram,#Music,Video,Brazil,3603843,331779,44762,42966,Medium,11.6405,0
+Post_2225,Instagram,#Gaming,Live Stream,USA,3087010,167365,34302,37657,High,7.7526,0
+Post_2227,Instagram,#Education,Video,Canada,646803,49231,73332,4583,High,19.6576,0
+Post_2235,Instagram,#Comedy,Shorts,Germany,182764,157348,86537,11664,Low,139.8246,1
+Post_2259,Instagram,#Fitness,Post,UK,3336371,199406,96109,1573,Low,8.9045,0
+Post_2262,Instagram,#Music,Post,USA,3785489,39486,15742,31425,Low,2.2891,0
+Post_2265,Instagram,#Education,Live Stream,Canada,4306085,274903,59924,38017,High,8.6585,0
+Post_2273,Instagram,#Dance,Post,India,2610314,497448,37488,3751,High,20.6369,0
+Post_2280,Instagram,#Music,Shorts,Japan,2719250,9766,64708,4376,High,2.8997,0
+Post_2281,Instagram,#Dance,Post,Canada,4021492,455615,5258,11806,Medium,11.7538,0
+Post_2288,Instagram,#Fitness,Video,Australia,2986160,146980,99759,23072,Medium,9.0354,0
+Post_2299,Instagram,#Comedy,Post,Australia,3467552,147696,27597,48344,Medium,6.4494,0
+Post_2300,Instagram,#Comedy,Live Stream,India,1557711,232504,92705,26887,Medium,22.6034,0
+Post_2301,Instagram,#Comedy,Video,Australia,1703779,308045,85908,45368,High,25.7851,0
+Post_2302,Instagram,#Challenge,Tweet,India,2069092,440513,93023,27202,Low,27.1007,0
+Post_2311,Instagram,#Gaming,Shorts,Canada,1085496,253431,33825,31215,Low,29.3388,0
+Post_2320,Instagram,#Challenge,Reel,Canada,3082916,70195,7912,15188,Medium,3.0262,0
+Post_2321,Instagram,#Fashion,Reel,Japan,1946599,162862,98819,40097,High,15.5028,0
+Post_2326,Instagram,#Challenge,Reel,Australia,829327,240625,50607,2433,High,35.41,0
+Post_2327,Instagram,#Education,Video,Japan,3940342,210349,63035,33406,Low,7.7859,0
+Post_2331,Instagram,#Viral,Shorts,Canada,4465663,253096,56168,30810,Low,7.6153,0
+Post_2332,Instagram,#Comedy,Reel,Brazil,3605145,490924,80578,11164,Medium,16.1621,0
+Post_2333,Instagram,#Fitness,Reel,Germany,2244659,464647,72133,21371,Medium,24.8657,0
+Post_2339,Instagram,#Tech,Post,USA,4739340,30609,72269,38645,High,2.9861,0
+Post_2345,Instagram,#Challenge,Video,Canada,358197,302752,72799,21197,Medium,110.7625,1
+Post_2354,Instagram,#Education,Shorts,Australia,155519,315644,87191,4007,Low,261.6028,1
+Post_2355,Instagram,#Music,Reel,Canada,434344,82529,16899,35321,High,31.0236,0
+Post_2359,Instagram,#Dance,Post,Japan,1567332,378583,88750,33441,Low,31.9507,0
+Post_2364,Instagram,#Dance,Reel,Canada,3265277,458051,29284,27213,High,15.7582,0
+Post_2365,Instagram,#Fitness,Video,USA,2468546,184286,40314,40022,Medium,10.7198,0
+Post_2369,Instagram,#Viral,Video,Japan,4530657,343884,23584,33459,Low,8.8492,0
+Post_2373,Instagram,#Viral,Reel,UK,2674421,365369,78273,45815,High,18.3014,0
+Post_2383,Instagram,#Challenge,Tweet,Japan,4848430,366691,47997,35753,Low,9.2905,0
+Post_2389,Instagram,#Music,Reel,Canada,203200,218590,72764,34315,Low,160.2702,1
+Post_2395,Instagram,#Challenge,Tweet,USA,3171786,50849,1646,20221,Medium,2.2926,0
+Post_2397,Instagram,#Dance,Video,Australia,103897,39137,23566,43482,High,102.2022,1
+Post_2398,Instagram,#Comedy,Reel,India,267595,196017,71829,28958,Medium,110.9154,1
+Post_2400,Instagram,#Music,Tweet,Australia,1032172,63781,81612,41902,High,18.1457,0
+Post_2422,Instagram,#Fashion,Video,Germany,4244091,247707,91134,21078,Low,8.4805,0
+Post_2424,Instagram,#Dance,Shorts,Germany,670647,304751,19252,4825,Medium,49.0315,1
+Post_2426,Instagram,#Tech,Tweet,Germany,3681863,228168,9128,32280,Medium,7.3217,0
+Post_2427,Instagram,#Tech,Live Stream,India,4466621,479028,75159,13063,Low,12.6998,0
+Post_2431,Instagram,#Fitness,Tweet,Japan,2168159,445889,80260,44121,High,26.302,0
+Post_2432,Instagram,#Comedy,Post,UK,4930465,145318,39080,9349,High,3.9296,0
+Post_2452,Instagram,#Gaming,Shorts,UK,4356392,411938,75228,24469,Low,11.7445,0
+Post_2458,Instagram,#Gaming,Tweet,Canada,2361266,184502,87669,13578,Medium,12.1015,0
+Post_2460,Instagram,#Dance,Tweet,UK,3526448,51600,83324,34949,High,4.8171,0
+Post_2462,Instagram,#Fashion,Live Stream,India,3003531,381398,70031,25141,Low,15.867,0
+Post_2473,Instagram,#Dance,Live Stream,Germany,2349428,91877,14035,48890,High,6.5889,0
+Post_2474,Instagram,#Music,Post,Canada,3495833,247723,73354,24761,High,9.8929,0
+Post_2486,Instagram,#Education,Shorts,Brazil,220575,200694,61870,17571,Medium,127.0022,1
+Post_2488,Instagram,#Gaming,Video,Canada,3287015,228853,73672,31885,Medium,10.1737,0
+Post_2492,Instagram,#Gaming,Reel,USA,1976709,80323,48505,43372,Medium,8.7114,0
+Post_2494,Instagram,#Challenge,Live Stream,Brazil,2827457,65941,46483,48418,Medium,5.6886,0
+Post_2498,Instagram,#Viral,Reel,Germany,493921,40363,16844,32469,Low,18.1559,0
+Post_2503,Instagram,#Music,Live Stream,Japan,1703104,197192,63338,3886,High,15.5255,0
+Post_2508,Instagram,#Fashion,Tweet,India,4992601,389024,91886,16411,High,9.9612,0
+Post_2513,Instagram,#Tech,Tweet,Germany,1814986,411569,12811,40638,Medium,25.621,0
+Post_2516,Instagram,#Music,Live Stream,USA,213212,31125,57224,27244,High,54.2151,1
+Post_2531,Instagram,#Tech,Post,Canada,4168696,113448,30625,48391,Medium,4.6169,0
+Post_2535,Instagram,#Tech,Post,UK,2942675,167857,18673,3273,Medium,6.45,0
+Post_2540,Instagram,#Music,Live Stream,Australia,401582,415577,39290,43037,High,123.9856,1
+Post_2542,Instagram,#Gaming,Reel,UK,3508758,417726,86984,579,Low,14.4008,0
+Post_2545,Instagram,#Comedy,Post,India,1827742,68140,14386,10354,Medium,5.0817,0
+Post_2547,Instagram,#Fitness,Post,UK,3892548,47532,2967,4004,Low,1.4002,0
+Post_2549,Instagram,#Comedy,Reel,UK,4428223,263558,38409,220,Medium,6.8241,0
+Post_2561,Instagram,#Dance,Shorts,USA,1277252,142436,54890,11779,Low,16.3715,0
+Post_2573,Instagram,#Education,Shorts,Japan,338623,170174,38826,10092,Low,64.7009,1
+Post_2574,Instagram,#Education,Live Stream,Brazil,2262056,291846,30805,8381,Low,14.6341,0
+Post_2576,Instagram,#Dance,Video,India,329482,463165,31309,31828,High,159.7362,1
+Post_2579,Instagram,#Fitness,Reel,USA,1701876,310183,78161,41590,Medium,25.2624,0
+Post_2580,Instagram,#Fitness,Reel,USA,142287,488840,88711,41354,Medium,434.9695,1
+Post_2586,Instagram,#Education,Tweet,Brazil,1680761,17011,75940,20745,Medium,6.7646,0
+Post_2587,Instagram,#Education,Post,Japan,3759036,49515,94487,19525,Medium,4.3502,0
+Post_2588,Instagram,#Comedy,Tweet,Germany,4990567,196104,40750,15936,Low,5.0654,0
+Post_2599,Instagram,#Comedy,Tweet,Canada,895082,165876,33670,43357,Low,27.1375,0
+Post_2606,Instagram,#Challenge,Video,USA,3223017,409378,89525,29071,High,16.3814,0
+Post_2610,Instagram,#Fitness,Reel,Canada,4144067,133720,86090,44322,Low,6.3737,0
+Post_2614,Instagram,#Education,Shorts,Brazil,3997068,292005,85139,5723,Medium,9.5787,0
+Post_2619,Instagram,#Fitness,Shorts,Japan,2287664,205770,47154,11030,Low,11.5381,0
+Post_2631,Instagram,#Fashion,Video,Germany,172200,480028,66136,20523,High,329.0865,1
+Post_2634,Instagram,#Gaming,Video,Canada,4828592,471991,21120,11961,High,10.46,0
+Post_2639,Instagram,#Fashion,Live Stream,USA,4257118,186429,23604,19658,High,5.3955,0
+Post_2641,Instagram,#Fashion,Shorts,USA,123286,34636,6143,15414,Medium,45.5794,1
+Post_2644,Instagram,#Dance,Live Stream,Canada,2552873,342534,85291,24004,High,17.6988,0
+Post_2650,Instagram,#Music,Reel,Japan,3073979,274163,78633,27860,Low,12.3832,0
+Post_2653,Instagram,#Tech,Tweet,Germany,939952,64597,3267,48732,Low,12.4045,0
+Post_2654,Instagram,#Gaming,Shorts,Brazil,3697216,209784,41633,19831,Medium,7.3365,0
+Post_2655,Instagram,#Challenge,Live Stream,Japan,3339645,423737,51231,19571,Low,14.8081,0
+Post_2657,Instagram,#Education,Tweet,India,921280,387296,3602,17054,Low,44.281,1
+Post_2663,Instagram,#Gaming,Reel,Germany,2513698,158723,61512,17584,Low,9.4609,0
+Post_2666,Instagram,#Comedy,Shorts,India,1691423,152626,11980,49620,Medium,12.6654,0
+Post_2672,Instagram,#Fitness,Shorts,Canada,3583230,21976,19513,33330,Low,2.088,0
+Post_2675,Instagram,#Dance,Live Stream,Brazil,2619842,462407,20536,35579,Low,19.7921,0
+Post_2676,Instagram,#Viral,Shorts,UK,2126536,193598,42420,29174,Medium,12.4706,0
+Post_2685,Instagram,#Tech,Video,India,1121577,171196,50556,19092,Medium,21.4737,0
+Post_2695,Instagram,#Gaming,Video,Australia,3576712,403450,97590,31542,Medium,14.8903,0
+Post_2700,Instagram,#Challenge,Video,Brazil,4777385,385660,33183,36910,Medium,9.5398,0
+Post_2707,Instagram,#Fashion,Reel,Canada,2711659,266006,6741,40856,Medium,11.565,0
+Post_2710,Instagram,#Fitness,Tweet,Brazil,12365,150585,22791,10537,Low,1487.3676,1
+Post_2715,Instagram,#Tech,Post,Australia,3535094,277346,18702,27624,High,9.156,0
+Post_2719,Instagram,#Challenge,Live Stream,UK,4621169,273643,43438,18369,Medium,7.259,0
+Post_2721,Instagram,#Music,Live Stream,UK,1170696,429372,49207,49136,Low,45.077,1
+Post_2731,Instagram,#Challenge,Tweet,India,1150787,65081,31527,30435,Medium,11.0397,0
+Post_2735,Instagram,#Gaming,Live Stream,Brazil,4312788,124275,98380,8457,Medium,5.3588,0
+Post_2740,Instagram,#Dance,Shorts,Canada,3529950,52867,17076,23240,High,2.6398,0
+Post_2742,Instagram,#Music,Reel,Canada,2564894,135335,28533,7583,Medium,6.6845,0
+Post_2745,Instagram,#Fitness,Reel,Japan,731621,11172,59313,35492,Low,14.4852,0
+Post_2750,Instagram,#Gaming,Shorts,Australia,2612014,187743,54867,13925,Medium,9.8213,0
+Post_2753,Instagram,#Comedy,Shorts,Canada,4425278,417054,96321,45234,Medium,12.6231,0
+Post_2757,Instagram,#Challenge,Shorts,USA,1596330,438566,46359,10781,Medium,31.0529,0
+Post_2758,Instagram,#Dance,Shorts,Brazil,2568596,17463,27489,29011,Medium,2.8795,0
+Post_2759,Instagram,#Music,Tweet,Australia,1602583,95273,33154,31607,High,9.986,0
+Post_2766,Instagram,#Education,Tweet,Germany,946340,417158,91240,25016,Low,56.366,1
+Post_2767,Instagram,#Comedy,Reel,UK,3747884,82226,76069,31192,Medium,5.0558,0
+Post_2772,Instagram,#Challenge,Tweet,Canada,3093066,372946,38682,18578,High,13.9087,0
+Post_2774,Instagram,#Fitness,Reel,Canada,3634352,280654,38955,13864,Low,9.1756,0
+Post_2775,Instagram,#Dance,Post,Brazil,3727003,242287,93794,1561,Low,9.0593,0
+Post_2778,Instagram,#Education,Shorts,Japan,4660917,108250,64438,46473,Low,4.7021,0
+Post_2785,Instagram,#Viral,Shorts,USA,3233563,150813,58386,1709,Low,6.5225,0
+Post_2786,Instagram,#Music,Tweet,Brazil,3824375,327312,21152,33353,Low,9.9838,0
+Post_2787,Instagram,#Viral,Shorts,Australia,1004552,189682,46042,10235,Medium,24.4844,0
+Post_2789,Instagram,#Fashion,Tweet,USA,481808,61671,7895,34339,Low,21.5656,0
+Post_2794,Instagram,#Music,Reel,UK,3816051,462424,91866,41600,High,15.6154,0
+Post_2798,Instagram,#Gaming,Video,Canada,4336522,340438,51068,2711,Medium,9.0906,0
+Post_2801,Instagram,#Music,Live Stream,Japan,1922920,346738,31025,28656,Low,21.1355,0
+Post_2807,Instagram,#Tech,Live Stream,UK,706597,69502,74826,29444,Low,24.5928,0
+Post_2811,Instagram,#Challenge,Reel,UK,4402298,311108,37588,11747,Low,8.1876,0
+Post_2812,Instagram,#Fitness,Shorts,USA,4421041,282996,32876,25568,Medium,7.7231,0
+Post_2816,Instagram,#Dance,Reel,Canada,2608658,98810,82993,34706,High,8.2996,0
+Post_2822,Instagram,#Viral,Video,Australia,1060579,3040,27023,2492,Medium,3.0695,0
+Post_2823,Instagram,#Comedy,Live Stream,USA,410897,318387,21785,34447,High,91.171,1
+Post_2824,Instagram,#Education,Shorts,Germany,4726108,458831,19832,13777,High,10.4196,0
+Post_2830,Instagram,#Fashion,Live Stream,UK,3243480,129261,28764,26090,High,5.6765,0
+Post_2831,Instagram,#Viral,Post,Germany,3735626,401542,46135,21504,Medium,12.5596,0
+Post_2836,Instagram,#Fashion,Video,Germany,4546358,102608,86881,9657,Medium,4.3803,0
+Post_2837,Instagram,#Dance,Video,Brazil,1430779,315712,1000,5052,Low,22.4887,0
+Post_2838,Instagram,#Challenge,Reel,USA,228932,378052,98315,7270,High,211.2579,1
+Post_2839,Instagram,#Fashion,Shorts,Canada,965970,292954,63900,42310,Medium,41.3226,1
+Post_2840,Instagram,#Gaming,Post,Germany,4926990,270638,91444,45562,High,8.2737,0
+Post_2850,Instagram,#Fitness,Video,UK,202210,289749,57498,29545,High,186.337,1
+Post_2855,Instagram,#Dance,Shorts,Germany,2100020,314357,71376,21215,High,19.3783,0
+Post_2857,Instagram,#Viral,Shorts,Brazil,2337596,467029,77732,4729,Low,23.5066,0
+Post_2862,Instagram,#Education,Shorts,Japan,4440766,432244,61567,31213,Low,11.8228,0
+Post_2865,Instagram,#Viral,Reel,Australia,1831119,491782,86681,48075,High,34.2161,0
+Post_2869,Instagram,#Education,Tweet,USA,2425779,288690,80963,22285,Low,16.1572,0
+Post_2875,Instagram,#Challenge,Live Stream,Canada,701100,318884,45392,11881,Medium,53.6524,1
+Post_2876,Instagram,#Tech,Post,Canada,4367832,28067,57644,1618,High,1.9994,0
+Post_2877,Instagram,#Comedy,Reel,Germany,3972959,32049,94677,6195,Medium,3.3456,0
+Post_2878,Instagram,#Comedy,Post,Canada,4599775,330663,79218,13710,Medium,9.209,0
+Post_2887,Instagram,#Gaming,Live Stream,India,1531926,391683,51624,29359,Medium,30.8544,0
+Post_2891,Instagram,#Challenge,Shorts,Germany,821533,342870,79554,16318,Low,53.4053,1
+Post_2894,Instagram,#Fitness,Tweet,Brazil,3616113,50849,51541,5257,Medium,2.9769,0
+Post_2896,Instagram,#Viral,Live Stream,USA,670827,419802,52712,9940,Low,71.9193,1
+Post_2898,Instagram,#Tech,Live Stream,Canada,4926887,377993,44337,34514,Medium,9.2725,0
+Post_2899,Instagram,#Comedy,Video,USA,2176834,489451,95563,19558,High,27.773,0
+Post_2904,Instagram,#Fashion,Tweet,Germany,3582719,222267,74127,44442,High,9.5133,0
+Post_2908,Instagram,#Challenge,Live Stream,UK,4498056,491674,95872,47593,High,14.1203,0
+Post_2918,Instagram,#Challenge,Shorts,Canada,4050217,331829,65620,38905,Medium,10.7736,0
+Post_2930,Instagram,#Education,Shorts,Germany,2757834,276600,2866,32837,Low,11.3242,0
+Post_2935,Instagram,#Tech,Live Stream,Germany,3184440,427144,76762,16306,High,16.3361,0
+Post_2942,Instagram,#Fitness,Live Stream,Brazil,4116538,248427,78029,35739,Medium,8.7985,0
+Post_2944,Instagram,#Education,Tweet,Brazil,3233439,234569,33026,19726,High,8.8859,0
+Post_2945,Instagram,#Fashion,Video,USA,1745859,326923,67496,2336,High,22.7255,0
+Post_2949,Instagram,#Dance,Post,India,4669272,368176,25124,26215,Medium,8.9846,0
+Post_2954,Instagram,#Education,Post,Australia,3909608,328265,91682,28567,High,11.4721,0
+Post_2955,Instagram,#Viral,Video,India,84988,3961,66175,7174,Low,90.9658,1
+Post_2957,Instagram,#Dance,Reel,USA,3869119,243254,45272,41026,Medium,8.5175,0
+Post_2959,Instagram,#Fashion,Live Stream,Japan,2510654,222047,42335,18710,Low,11.2756,0
+Post_2964,Instagram,#Fashion,Tweet,USA,1454497,198979,27467,43108,High,18.5325,0
+Post_2965,Instagram,#Gaming,Video,UK,4636106,119192,74078,46366,Low,5.1689,0
+Post_2966,Instagram,#Fashion,Live Stream,Brazil,1418093,167927,21604,23507,High,15.0229,0
+Post_2971,Instagram,#Fitness,Video,Australia,2698643,357079,83343,41222,Medium,17.8476,0
+Post_2990,Instagram,#Gaming,Reel,Australia,4401295,150497,53808,43102,Low,5.6212,0
+Post_2992,Instagram,#Fitness,Shorts,UK,4023553,138648,78164,47562,Low,6.5707,0
+Post_3011,Instagram,#Fitness,Tweet,Germany,4574811,234031,61405,24447,Low,6.9923,0
+Post_3021,Instagram,#Comedy,Video,India,757452,53035,57545,36097,High,19.3645,0
+Post_3025,Instagram,#Tech,Tweet,Germany,3246752,341196,98173,49438,Medium,15.0553,0
+Post_3026,Instagram,#Gaming,Tweet,Australia,1084541,476378,7727,23253,High,46.7809,1
+Post_3027,Instagram,#Comedy,Live Stream,Germany,1576922,260556,5576,916,High,16.9348,0
+Post_3031,Instagram,#Education,Live Stream,Canada,1889280,209379,52856,26935,Medium,15.3058,0
+Post_3034,Instagram,#Viral,Post,India,4032339,447185,95082,4553,Low,13.5609,0
+Post_3039,Instagram,#Fitness,Video,USA,2327036,61250,78025,36566,Low,7.5564,0
+Post_3040,Instagram,#Viral,Reel,Australia,939246,57670,81461,29497,Medium,17.9535,0
+Post_3041,Instagram,#Comedy,Video,Canada,1731012,250378,88088,45704,Medium,22.1934,0
+Post_3051,Instagram,#Challenge,Live Stream,USA,3068331,454979,20223,17128,High,16.0455,0
+Post_3052,Instagram,#Music,Tweet,Canada,2528462,245856,95659,33681,High,14.8389,0
+Post_3053,Instagram,#Comedy,Post,Canada,1119674,109989,80729,8816,Medium,17.8207,0
+Post_3061,Instagram,#Challenge,Video,Brazil,277130,233783,85182,8036,Low,117.9955,1
+Post_3063,Instagram,#Fashion,Shorts,India,1592224,151107,21352,42997,Medium,13.5318,0
+Post_3069,Instagram,#Music,Reel,Brazil,961891,487176,12329,34064,Low,55.4708,1
+Post_3084,Instagram,#Tech,Shorts,Germany,4843527,125726,6638,10865,High,2.9571,0
+Post_3089,Instagram,#Tech,Tweet,Canada,3652853,316401,92501,7383,Low,11.3962,0
+Post_3090,Instagram,#Fitness,Post,Brazil,4548249,326779,68925,15219,Medium,9.0348,0
+Post_3091,Instagram,#Challenge,Shorts,Brazil,806577,50620,69364,17406,Medium,17.0337,0
+Post_3094,Instagram,#Music,Live Stream,USA,2511024,62511,61932,3768,High,5.1059,0
+Post_3097,Instagram,#Tech,Video,Germany,3837949,316369,65626,27325,Medium,10.6651,0
+Post_3102,Instagram,#Dance,Live Stream,Canada,156951,408508,7362,30622,Medium,284.4786,1
+Post_3103,Instagram,#Fitness,Live Stream,UK,3159453,460909,52610,20708,Medium,16.9088,0
+Post_3107,Instagram,#Fitness,Tweet,USA,1659996,78744,84042,26271,Medium,11.389,0
+Post_3111,Instagram,#Music,Reel,Australia,3133920,214076,33445,23364,High,8.6436,0
+Post_3113,Instagram,#Education,Tweet,Brazil,4099154,220498,25835,8876,High,6.2259,0
+Post_3119,Instagram,#Fashion,Live Stream,Australia,4588344,458754,69225,2083,Medium,11.5524,0
+Post_3125,Instagram,#Fashion,Reel,Japan,2202961,39829,39612,33557,Low,5.1294,0
+Post_3127,Instagram,#Tech,Live Stream,UK,2316030,473612,67470,39461,Low,25.0663,0
+Post_3140,Instagram,#Tech,Live Stream,UK,1800642,446765,97999,9762,Low,30.796,0
+Post_3152,Instagram,#Fitness,Shorts,Japan,2088618,33474,31406,37790,Low,4.9157,0
+Post_3159,Instagram,#Fashion,Video,Germany,3008256,49571,4667,7419,High,2.0496,0
+Post_3167,Instagram,#Education,Post,USA,3692899,333304,64397,41206,High,11.8852,0
+Post_3172,Instagram,#Fashion,Tweet,Brazil,652613,68913,48724,2520,High,18.4117,0
+Post_3183,Instagram,#Gaming,Live Stream,Brazil,4004484,28922,67896,39287,Medium,3.3988,0
+Post_3189,Instagram,#Tech,Shorts,USA,2703206,265588,10903,43619,Low,11.8419,0
+Post_3191,Instagram,#Gaming,Live Stream,USA,2605580,295265,43546,18596,High,13.717,0
+Post_3192,Instagram,#Dance,Video,Canada,675381,235103,16489,18896,Low,40.0497,1
+Post_3196,Instagram,#Fitness,Shorts,India,3228575,264811,27451,24414,High,9.8085,0
+Post_3197,Instagram,#Education,Reel,Australia,3413756,181553,21480,3465,Low,6.049,0
+Post_3199,Instagram,#Dance,Post,Canada,1145849,287542,90299,42322,High,36.6683,0
+Post_3208,Instagram,#Challenge,Post,India,4431107,465657,33665,5015,Medium,11.3817,0
+Post_3210,Instagram,#Education,Video,Australia,2982515,223769,87424,11556,High,10.8214,0
+Post_3212,Instagram,#Dance,Tweet,Germany,2487151,309174,3823,14068,High,13.1502,0
+Post_3213,Instagram,#Challenge,Live Stream,Germany,827453,98572,86466,22004,High,25.0216,0
+Post_3218,Instagram,#Viral,Video,USA,4397591,416382,88301,47488,Medium,12.5562,0
+Post_3222,Instagram,#Tech,Reel,Australia,604410,281512,29457,28963,Medium,56.242,1
+Post_3224,Instagram,#Fashion,Video,India,4771704,282262,66844,16684,Low,7.6658,0
+Post_3230,Instagram,#Education,Post,USA,4873492,97181,19120,23324,High,2.865,0
+Post_3232,Instagram,#Music,Reel,USA,1227035,90647,96551,30875,Medium,17.7724,0
+Post_3233,Instagram,#Challenge,Live Stream,Brazil,2940609,417021,8144,10445,Medium,14.8136,0
+Post_3236,Instagram,#Tech,Video,Australia,4501262,376672,46465,42986,High,10.3554,0
+Post_3240,Instagram,#Fitness,Shorts,India,2023201,336333,92713,45633,Medium,23.4618,0
+Post_3243,Instagram,#Comedy,Video,UK,1316770,5074,20536,3832,Medium,2.2359,0
+Post_3247,Instagram,#Education,Post,Brazil,4326229,246832,39479,26490,High,7.2303,0
+Post_3251,Instagram,#Music,Video,Canada,236875,74979,9432,26615,Low,46.8711,1
+Post_3252,Instagram,#Education,Reel,India,4566449,141902,86919,12914,Low,5.2937,0
+Post_3258,Instagram,#Tech,Reel,Australia,276749,409709,41368,1705,Medium,163.6075,1
+Post_3259,Instagram,#Fitness,Live Stream,UK,2872146,421936,20418,15861,Medium,15.9538,0
+Post_3266,Instagram,#Gaming,Live Stream,Australia,4616223,304084,26970,23126,Low,7.6725,0
+Post_3272,Instagram,#Fashion,Reel,Germany,623920,217601,92282,15725,Low,52.1875,1
+Post_3275,Instagram,#Tech,Post,Brazil,384054,131704,17338,882,Low,39.0372,0
+Post_3280,Instagram,#Fitness,Video,India,2036540,16738,9695,43757,High,3.4465,0
+Post_3283,Instagram,#Education,Post,Canada,1020700,433852,77135,31850,High,53.1828,1
+Post_3285,Instagram,#Viral,Live Stream,India,39781,423500,50945,34819,Low,1280.1689,1
+Post_3286,Instagram,#Fashion,Post,Japan,97690,412823,75641,11702,Low,511.993,1
+Post_3289,Instagram,#Fashion,Shorts,Brazil,56401,377017,1123,49912,High,758.944,1
+Post_3291,Instagram,#Viral,Reel,Japan,1748866,327009,18316,21361,Medium,20.9671,0
+Post_3293,Instagram,#Fitness,Reel,Japan,4883378,87676,14621,26540,Medium,2.6383,0
+Post_3295,Instagram,#Music,Video,Canada,1059321,458647,29080,38590,High,49.6844,1
+Post_3303,Instagram,#Challenge,Video,Germany,478538,205376,88710,8313,High,63.1923,1
+Post_3306,Instagram,#Comedy,Reel,Japan,3613144,231529,75728,6741,High,8.6904,0
+Post_3310,Instagram,#Fitness,Live Stream,Germany,1438981,309626,19111,19443,High,24.1963,0
+Post_3311,Instagram,#Viral,Live Stream,Brazil,478152,134611,34849,19291,Low,39.4751,0
+Post_3318,Instagram,#Education,Reel,Canada,812354,499312,94311,6281,Low,73.8476,1
+Post_3320,Instagram,#Music,Post,UK,2537706,119745,44035,24671,High,7.426,0
+Post_3325,Instagram,#Dance,Shorts,UK,133501,499664,49136,9299,Low,418.0486,1
+Post_3327,Instagram,#Education,Post,USA,2470375,91574,67902,15922,Low,7.1001,0
+Post_3331,Instagram,#Dance,Video,Canada,2994745,447160,13987,33907,Low,16.5308,0
+Post_3335,Instagram,#Tech,Post,Germany,2875293,19233,44540,47447,Low,3.8681,0
+Post_3348,Instagram,#Music,Shorts,Australia,2229517,223788,28338,14001,High,11.9365,0
+Post_3349,Instagram,#Challenge,Tweet,Japan,4454713,55437,78284,10261,Low,3.2321,0
+Post_3352,Instagram,#Viral,Shorts,Brazil,2607404,75633,52102,12416,High,5.3751,0
+Post_3354,Instagram,#Challenge,Tweet,UK,3561125,94613,21873,47524,Medium,4.6056,0
+Post_3356,Instagram,#Music,Reel,Canada,3725186,349303,22384,21451,Low,10.5535,0
+Post_3362,Instagram,#Comedy,Post,Japan,1722355,236274,45770,40757,Low,18.7418,0
+Post_3364,Instagram,#Music,Shorts,Brazil,2411833,294331,39137,41720,High,15.5561,0
+Post_3365,Instagram,#Tech,Reel,Brazil,528143,357050,25187,1365,Medium,72.6322,1
+Post_3367,Instagram,#Gaming,Post,Japan,1252622,38532,98666,12777,Low,11.9729,0
+Post_3371,Instagram,#Music,Shorts,Brazil,1405761,376444,44939,49230,Low,33.4775,0
+Post_3375,Instagram,#Viral,Live Stream,USA,955722,315687,77050,46526,Medium,45.9614,1
+Post_3376,Instagram,#Fitness,Live Stream,USA,153498,362887,45894,46622,High,296.6833,1
+Post_3378,Instagram,#Music,Reel,UK,2184869,12871,32688,47224,Medium,4.2466,0
+Post_3384,Instagram,#Viral,Live Stream,Japan,3661315,389654,63439,49862,Medium,13.737,0
+Post_3385,Instagram,#Comedy,Post,USA,1663117,471900,960,24601,Low,29.9114,0
+Post_3386,Instagram,#Fitness,Tweet,UK,1322682,185370,26878,19908,Medium,17.5519,0
+Post_3390,Instagram,#Challenge,Tweet,UK,1890827,110536,55270,12779,Medium,9.4448,0
+Post_3396,Instagram,#Tech,Live Stream,USA,4053392,221994,56470,5057,Low,6.9947,0
+Post_3398,Instagram,#Gaming,Live Stream,Canada,4530813,129661,92531,42840,Medium,5.8495,0
+Post_3402,Instagram,#Tech,Tweet,Brazil,2822791,420187,28350,34025,Medium,17.0952,0
+Post_3404,Instagram,#Challenge,Tweet,UK,1707151,195846,61196,10966,High,15.6991,0
+Post_3406,Instagram,#Viral,Video,Canada,4627367,176050,52562,12843,Low,5.218,0
+Post_3412,Instagram,#Challenge,Video,Canada,1498441,104553,44545,30245,High,11.9686,0
+Post_3421,Instagram,#Tech,Shorts,Brazil,285407,69051,12083,38231,Low,41.8227,1
+Post_3422,Instagram,#Viral,Live Stream,Brazil,2018387,316555,60967,2987,High,18.8521,0
+Post_3427,Instagram,#Gaming,Post,India,2460263,108243,73742,33958,High,8.7772,0
+Post_3430,Instagram,#Gaming,Post,UK,4503859,296994,31652,33525,Low,8.0413,0
+Post_3431,Instagram,#Gaming,Reel,Australia,513332,455793,97926,29388,Medium,113.5926,1
+Post_3435,Instagram,#Challenge,Reel,Canada,2732791,118006,19060,32402,High,6.2013,0
+Post_3446,Instagram,#Education,Live Stream,Germany,926712,424010,3881,40154,Low,50.506,1
+Post_3453,Instagram,#Fashion,Post,India,4048901,50694,92406,8402,High,3.7418,0
+Post_3455,Instagram,#Challenge,Post,Brazil,3253451,65643,21278,14353,Low,3.1128,0
+Post_3456,Instagram,#Fitness,Tweet,India,52567,309679,88484,2957,Low,763.0643,1
+Post_3459,Instagram,#Tech,Post,Germany,127793,40339,80645,23618,Low,113.1533,1
+Post_3464,Instagram,#Comedy,Shorts,Brazil,186228,313554,35669,29462,Medium,203.3448,1
+Post_3466,Instagram,#Fashion,Tweet,Canada,1566853,216701,96557,24597,High,21.5626,0
+Post_3469,Instagram,#Comedy,Shorts,UK,1788764,303395,28692,43483,Low,20.9961,0
+Post_3480,Instagram,#Tech,Post,UK,3402750,453691,25559,1846,High,14.1384,0
+Post_3484,Instagram,#Tech,Video,UK,948205,279450,19021,28397,Low,34.4723,0
+Post_3485,Instagram,#Viral,Post,India,2043510,481273,53976,25707,Medium,27.4506,0
+Post_3486,Instagram,#Fitness,Video,Canada,1650691,213362,16662,28984,Medium,15.6909,0
+Post_3493,Instagram,#Viral,Video,UK,3179227,226624,320,17306,Low,7.6827,0
+Post_3496,Instagram,#Viral,Shorts,Australia,1783139,219741,55360,38676,Medium,17.5969,0
+Post_3499,Instagram,#Challenge,Video,Australia,4559245,477588,64375,23246,High,12.397,0
+Post_3506,Instagram,#Music,Live Stream,UK,3211977,47868,69676,23438,High,4.3893,0
+Post_3511,Instagram,#Fashion,Tweet,Japan,884253,386330,81443,9032,Low,53.9218,1
+Post_3512,Instagram,#Gaming,Reel,Japan,2956646,230844,11370,12565,High,8.6172,0
+Post_3516,Instagram,#Viral,Live Stream,India,1110655,290104,57393,23702,High,33.4216,0
+Post_3527,Instagram,#Fitness,Tweet,India,1264685,227648,29351,23301,High,22.1636,0
+Post_3528,Instagram,#Challenge,Reel,Australia,1473168,236845,44426,19742,Low,20.433,0
+Post_3530,Instagram,#Comedy,Shorts,Germany,1140110,38015,8131,7309,High,4.6886,0
+Post_3531,Instagram,#Viral,Post,Japan,1460320,474886,32537,17147,Medium,35.9216,0
+Post_3534,Instagram,#Fashion,Post,India,4852257,464130,22228,5534,High,10.1374,0
+Post_3540,Instagram,#Fitness,Post,Canada,2899386,288198,97504,29093,Low,14.3063,0
+Post_3542,Instagram,#Fitness,Live Stream,Brazil,4037427,201579,92106,34502,Medium,8.1286,0
+Post_3547,Instagram,#Tech,Post,UK,2709554,483418,35675,6041,High,19.3808,0
+Post_3548,Instagram,#Music,Live Stream,India,1757386,22752,36095,37939,Low,5.5074,0
+Post_3553,Instagram,#Fitness,Live Stream,Australia,2355608,335201,89190,47165,High,20.0184,0
+Post_3566,Instagram,#Tech,Shorts,Canada,898472,379417,26812,46208,Medium,50.3563,1
+Post_3571,Instagram,#Viral,Post,Germany,4007626,296181,64879,9812,Medium,9.2542,0
+Post_3580,Instagram,#Education,Video,India,2367228,440739,70043,20486,High,22.4426,0
+Post_3583,Instagram,#Fitness,Live Stream,Australia,1294997,23756,95096,36485,Medium,11.9952,0
+Post_3591,Instagram,#Dance,Post,UK,2647054,41257,39244,9813,Medium,3.4119,0
+Post_3594,Instagram,#Music,Video,Australia,4557029,125724,1278,33044,Low,3.5121,0
+Post_3597,Instagram,#Education,Reel,USA,3570669,376435,42008,15701,Medium,12.1586,0
+Post_3599,Instagram,#Fashion,Shorts,USA,1761578,272014,92390,5140,Low,20.978,0
+Post_3602,Instagram,#Education,Reel,Germany,2535862,93339,72820,2828,Low,6.6639,0
+Post_3603,Instagram,#Gaming,Post,Japan,2408561,311453,91334,6412,Medium,16.9894,0
+Post_3605,Instagram,#Challenge,Live Stream,Canada,1700132,81658,81466,33991,High,11.5941,0
+Post_3607,Instagram,#Dance,Tweet,USA,1406784,449995,79996,33134,Medium,40.0292,1
+Post_3612,Instagram,#Fitness,Post,Japan,2940522,25740,72776,35407,Low,4.5544,0
+Post_3613,Instagram,#Music,Reel,Australia,2100416,225017,46803,12290,High,13.5264,0
+Post_3617,Instagram,#Education,Tweet,Germany,4651459,68377,67937,30898,Low,3.5948,0
+Post_3619,Instagram,#Music,Video,USA,4277027,354830,17598,7596,Low,8.8852,0
+Post_3621,Instagram,#Comedy,Video,UK,3794993,200502,92287,9187,Medium,7.9572,0
+Post_3624,Instagram,#Fashion,Video,Australia,1671868,395880,60863,10189,Medium,27.9288,0
+Post_3626,Instagram,#Tech,Tweet,Canada,3620053,417221,33890,43836,Low,13.6724,0
+Post_3628,Instagram,#Music,Tweet,Australia,2716374,344755,20540,31222,Low,14.5973,0
+Post_3632,Instagram,#Music,Live Stream,Australia,2714339,195676,96044,18591,High,11.4323,0
+Post_3633,Instagram,#Education,Reel,India,4625228,96042,96828,30562,High,4.8307,0
+Post_3635,Instagram,#Education,Post,Brazil,2093646,289340,34851,10245,Medium,15.9739,0
+Post_3646,Instagram,#Challenge,Shorts,Japan,2903014,398167,70875,25022,Medium,17.019,0
+Post_3648,Instagram,#Gaming,Tweet,Japan,665115,5418,9160,6114,Medium,3.111,0
+Post_3652,Instagram,#Challenge,Post,USA,2446014,30223,88394,2447,Medium,4.9494,0
+Post_3653,Instagram,#Comedy,Reel,Canada,3699879,213072,16388,34755,Medium,7.1412,0
+Post_3656,Instagram,#Challenge,Shorts,Japan,2314668,36572,67108,42772,Low,6.3271,0
+Post_3658,Instagram,#Fitness,Live Stream,Germany,1058506,361715,51528,5422,Medium,39.5524,0
+Post_3661,Instagram,#Comedy,Live Stream,Germany,1724155,458079,9417,48609,Low,29.9338,0
+Post_3665,Instagram,#Fashion,Live Stream,UK,2103231,265912,65039,38575,Low,17.5694,0
+Post_3666,Instagram,#Music,Tweet,Brazil,4335301,193543,50186,36208,Low,6.4572,0
+Post_3670,Instagram,#Education,Post,Germany,1147497,407471,29168,7518,Medium,38.7066,0
+Post_3671,Instagram,#Fashion,Post,Australia,231868,131318,92253,28352,High,108.6493,1
+Post_3679,Instagram,#Comedy,Shorts,Brazil,2148989,115422,32844,48115,Low,9.1383,0
+Post_3681,Instagram,#Dance,Post,Australia,3989657,351332,76680,36031,High,11.6312,0
+Post_3684,Instagram,#Fashion,Tweet,Canada,1390945,422057,94191,34407,Low,39.5886,0
+Post_3685,Instagram,#Fashion,Live Stream,Australia,4375990,99936,80353,3006,Low,4.1887,0
+Post_3688,Instagram,#Fashion,Post,Canada,2241319,22674,17632,11763,High,2.3231,0
+Post_3692,Instagram,#Fashion,Tweet,India,2926591,5898,89,6431,Low,0.4243,0
+Post_3703,Instagram,#Fitness,Shorts,Australia,3358197,230451,95429,22070,High,10.3612,0
+Post_3706,Instagram,#Viral,Video,Canada,3779546,165023,94433,31987,Low,7.7111,0
+Post_3709,Instagram,#Music,Shorts,UK,4513361,247785,75690,4772,Low,7.2728,0
+Post_3719,Instagram,#Education,Reel,Australia,1794640,12648,44721,13884,Low,3.9703,0
+Post_3720,Instagram,#Education,Post,Japan,3179233,185039,69942,48453,Low,9.5443,0
+Post_3727,Instagram,#Tech,Tweet,Canada,4165773,34145,78128,48750,Medium,3.8654,0
+Post_3728,Instagram,#Education,Shorts,UK,211233,238589,20953,15318,Low,130.1217,1
+Post_3735,Instagram,#Comedy,Post,USA,2260606,421644,22322,46373,High,21.6906,0
+Post_3739,Instagram,#Education,Post,USA,3387989,297965,12405,47576,Medium,10.5651,0
+Post_3746,Instagram,#Comedy,Post,UK,2703906,151587,84813,5219,High,8.9359,0
+Post_3748,Instagram,#Tech,Video,Germany,3608286,39961,57731,650,High,2.7254,0
+Post_3751,Instagram,#Comedy,Shorts,Germany,2834616,321819,85915,43610,Low,15.9226,0
+Post_3758,Instagram,#Viral,Shorts,USA,3519149,429333,72079,42269,High,15.4492,0
+Post_3761,Instagram,#Comedy,Reel,Canada,4337899,360339,90144,26248,Medium,10.9899,0
+Post_3764,Instagram,#Tech,Live Stream,Germany,3215735,372038,50812,33493,Low,14.1909,0
+Post_3767,Instagram,#Viral,Live Stream,India,1405081,174642,70414,820,Low,17.4991,0
+Post_3769,Instagram,#Comedy,Shorts,UK,637282,358058,65689,25327,Medium,70.4671,1
+Post_3788,Instagram,#Comedy,Live Stream,Canada,1831366,219055,32009,33612,High,15.5445,0
+Post_3790,Instagram,#Dance,Post,India,4002076,199918,60118,5823,Low,6.643,0
+Post_3791,Instagram,#Education,Shorts,India,1532579,318112,7994,1220,Medium,21.3579,0
+Post_3794,Instagram,#Education,Reel,UK,4410645,274766,45283,9010,Low,7.4606,0
+Post_3804,Instagram,#Dance,Tweet,UK,948825,374018,84000,27438,High,51.1639,1
+Post_3805,Instagram,#Dance,Post,Brazil,3596292,173815,46684,30679,Low,6.9844,0
+Post_3807,Instagram,#Fashion,Shorts,India,3609099,34382,13782,22498,Low,1.9579,0
+Post_3808,Instagram,#Music,Video,Japan,4430382,11441,74391,17355,High,2.3291,0
+Post_3811,Instagram,#Fitness,Shorts,Brazil,1143058,108813,83246,23634,Low,18.8698,0
+Post_3813,Instagram,#Dance,Shorts,Germany,103062,41968,72450,12902,High,123.5373,1
+Post_3816,Instagram,#Challenge,Shorts,Germany,2842780,3111,70197,30478,Low,3.6509,0
+Post_3822,Instagram,#Challenge,Live Stream,USA,3734090,477638,19503,13683,High,13.68,0
+Post_3832,Instagram,#Fitness,Reel,India,1521329,324725,63572,46365,Low,28.5712,0
+Post_3834,Instagram,#Fashion,Post,UK,1952016,9304,91696,2329,High,5.2935,0
+Post_3838,Instagram,#Fashion,Tweet,UK,1100509,307784,15477,49898,Low,33.9079,0
+Post_3840,Instagram,#Dance,Post,Canada,1699359,78852,19916,1843,High,5.9205,0
+Post_3841,Instagram,#Viral,Shorts,USA,3821272,244744,90943,48466,Low,10.053,0
+Post_3844,Instagram,#Viral,Video,USA,3510259,64432,8488,15662,High,2.5235,0
+Post_3845,Instagram,#Challenge,Shorts,India,1050906,57416,10271,31691,Low,9.4564,0
+Post_3847,Instagram,#Dance,Video,USA,691653,226370,15714,32571,High,39.7099,0
+Post_3849,Instagram,#Music,Video,Canada,3198087,152059,8360,16834,Low,5.5425,0
+Post_3850,Instagram,#Fashion,Reel,Australia,4165262,271304,50757,28623,Low,8.4193,0
+Post_3851,Instagram,#Tech,Post,USA,1563039,135115,16789,43702,High,12.5145,0
+Post_3852,Instagram,#Gaming,Tweet,Brazil,400678,415846,4621,28563,High,112.0675,1
+Post_3854,Instagram,#Music,Reel,Australia,531906,423823,33666,9162,Low,87.7319,1
+Post_3865,Instagram,#Education,Shorts,Brazil,3158238,178678,24440,18646,High,7.0218,0
+Post_3868,Instagram,#Tech,Video,Germany,4726748,328582,45403,26119,Low,8.4647,0
+Post_3872,Instagram,#Fashion,Post,Brazil,2317238,96203,65181,21178,Medium,7.8784,0
+Post_3882,Instagram,#Fashion,Tweet,Australia,3209804,26530,39753,28986,Medium,2.9681,0
+Post_3886,Instagram,#Dance,Live Stream,USA,1489412,259640,31561,24249,High,21.1795,0
+Post_3888,Instagram,#Gaming,Post,Germany,4540208,23381,72573,20823,High,2.5721,0
+Post_3891,Instagram,#Challenge,Post,Brazil,2727232,201268,17759,4275,High,8.1879,0
+Post_3898,Instagram,#Education,Post,Australia,870453,38904,71532,942,Medium,12.7954,0
+Post_3901,Instagram,#Fitness,Shorts,Australia,2271759,362820,34300,2604,Medium,17.5954,0
+Post_3903,Instagram,#Tech,Shorts,Japan,3407877,297655,26196,29062,High,10.3558,0
+Post_3905,Instagram,#Tech,Tweet,UK,4671326,484650,10588,44560,Medium,11.5556,0
+Post_3914,Instagram,#Challenge,Live Stream,Brazil,1482758,35680,95504,33046,Low,11.076,0
+Post_3915,Instagram,#Education,Tweet,USA,4228374,380409,92056,17760,Medium,11.5937,0
+Post_3916,Instagram,#Viral,Tweet,India,297878,267634,48829,47518,Medium,122.1913,1
+Post_3917,Instagram,#Music,Post,India,2397124,484304,78146,4295,Low,23.6427,0
+Post_3919,Instagram,#Comedy,Live Stream,Brazil,3335191,445929,16257,7451,Low,14.0813,0
+Post_3927,Instagram,#Fitness,Live Stream,USA,39409,71007,41600,46694,High,404.2249,1
+Post_3928,Instagram,#Fitness,Post,Brazil,3499748,84192,50937,40619,Low,5.0217,0
+Post_3929,Instagram,#Gaming,Shorts,Canada,2030644,499249,11833,28123,High,26.5534,0
+Post_3931,Instagram,#Dance,Reel,USA,4255189,351819,3829,20387,Low,8.8371,0
+Post_3938,Instagram,#Comedy,Shorts,India,3523284,272930,96467,47190,Low,11.8238,0
+Post_3941,Instagram,#Dance,Live Stream,Canada,2030560,466132,51434,46110,Low,27.7596,0
+Post_3942,Instagram,#Tech,Post,Canada,234535,251440,28477,22111,High,128.7774,1
+Post_3944,Instagram,#Viral,Live Stream,Brazil,2476219,352894,54154,45066,Low,18.2582,0
+Post_3947,Instagram,#Music,Video,USA,3356648,113463,87529,19511,High,6.5691,0
+Post_3958,Instagram,#Dance,Post,Brazil,26531,366987,95517,48128,Low,1924.6617,1
+Post_3964,Instagram,#Viral,Shorts,Brazil,2561592,417783,857,23063,Medium,17.2433,0
+Post_3970,Instagram,#Fitness,Tweet,Germany,3337724,191570,71507,21918,Medium,8.5386,0
+Post_3971,Instagram,#Viral,Tweet,Canada,1767518,159813,39987,10720,Low,11.9105,0
+Post_3983,Instagram,#Viral,Live Stream,Canada,4388298,330555,48407,35648,High,9.4481,0
+Post_3998,Instagram,#Fitness,Video,India,819360,249139,23677,17298,High,35.4074,0
+Post_4001,Instagram,#Fashion,Reel,UK,37868,454927,20602,4792,High,1268.4087,1
+Post_4002,Instagram,#Comedy,Live Stream,Canada,4239953,55663,86769,31454,Low,4.1011,0
+Post_4004,Instagram,#Fitness,Reel,Australia,309913,233668,86886,20588,High,110.0767,1
+Post_4005,Instagram,#Music,Shorts,UK,818780,44981,24326,35705,High,12.8254,0
+Post_4021,Instagram,#Fashion,Tweet,Australia,3233160,397430,48054,5915,High,13.9615,0
+Post_4022,Instagram,#Dance,Live Stream,Brazil,853710,449205,79352,18209,High,64.0459,1
+Post_4023,Instagram,#Fitness,Video,Brazil,1120916,125751,65533,15013,Low,18.4043,0
+Post_4030,Instagram,#Gaming,Post,India,3428164,338911,99243,18226,Low,13.3127,0
+Post_4032,Instagram,#Education,Post,UK,2322338,344964,48344,19822,Low,17.7894,0
+Post_4034,Instagram,#Dance,Post,Japan,3236693,354205,98081,45380,Medium,15.3758,0
+Post_4036,Instagram,#Viral,Video,Australia,2948068,200500,50312,4179,Medium,8.6494,0
+Post_4039,Instagram,#Music,Video,Canada,1405829,228388,4628,10107,Low,17.2939,0
+Post_4042,Instagram,#Fitness,Post,Germany,613581,340814,15805,34558,High,63.7531,1
+Post_4052,Instagram,#Viral,Live Stream,Brazil,3442649,448032,36711,48874,Medium,15.5002,0
+Post_4066,Instagram,#Fashion,Post,Brazil,3344955,143212,81068,21258,Low,7.3405,0
+Post_4073,Instagram,#Music,Video,Japan,1701847,238397,68324,48745,Low,20.8871,0
+Post_4083,Instagram,#Tech,Post,USA,4362872,32587,30482,33951,Medium,2.2238,0
+Post_4085,Instagram,#Viral,Post,Brazil,1836143,478208,99728,23179,High,32.7379,0
+Post_4087,Instagram,#Fitness,Reel,Japan,357877,73393,93580,6671,High,48.5206,1
+Post_4090,Instagram,#Music,Shorts,UK,363718,418876,29054,29280,Low,131.2033,1
+Post_4096,Instagram,#Dance,Post,India,2146139,401975,20858,4445,High,19.9091,0
+Post_4097,Instagram,#Fitness,Reel,Brazil,2073379,109399,75728,12420,High,9.5278,0
+Post_4107,Instagram,#Fitness,Shorts,Australia,456751,454496,1522,13256,Low,102.7418,1
+Post_4108,Instagram,#Tech,Live Stream,India,3088456,53845,23471,49774,High,4.115,0
+Post_4114,Instagram,#Music,Live Stream,Brazil,3042134,227819,20776,10220,Low,8.5077,0
+Post_4125,Instagram,#Fitness,Reel,Canada,3353507,138181,13507,12087,Low,4.8837,0
+Post_4132,Instagram,#Dance,Post,India,361268,1264,42106,23444,High,18.4943,0
+Post_4134,Instagram,#Fitness,Tweet,Australia,2491489,57916,10858,37910,Low,4.2819,0
+Post_4138,Instagram,#Comedy,Tweet,Canada,13578,485916,39122,29109,High,4081.2123,1
+Post_4139,Instagram,#Education,Tweet,Germany,1879192,424410,46366,12399,Low,25.7118,0
+Post_4140,Instagram,#Fitness,Video,Germany,3263236,473992,14768,33422,Medium,16.002,0
+Post_4145,Instagram,#Challenge,Reel,India,378801,462818,74567,16848,High,146.3124,1
+Post_4155,Instagram,#Fashion,Video,India,935217,284958,36811,25488,Medium,37.1312,0
+Post_4160,Instagram,#Dance,Reel,UK,4356395,367535,89909,10900,Medium,10.7507,0
+Post_4162,Instagram,#Dance,Video,USA,2561366,461768,60001,21753,High,21.22,0
+Post_4165,Instagram,#Tech,Post,UK,3346455,381718,62877,20046,Medium,13.8846,0
+Post_4166,Instagram,#Gaming,Reel,India,1067477,59345,84587,49878,High,18.1559,0
+Post_4169,Instagram,#Comedy,Live Stream,Brazil,925974,134908,19403,21283,High,18.9632,0
+Post_4176,Instagram,#Viral,Reel,India,4422263,135404,43976,34379,Low,4.8337,0
+Post_4179,Instagram,#Viral,Tweet,USA,1650594,298194,1467,32021,Medium,20.0947,0
+Post_4184,Instagram,#Viral,Post,India,3661779,399252,71009,10389,Medium,13.1261,0
+Post_4189,Instagram,#Education,Tweet,USA,310249,436907,80187,41517,Medium,180.0525,1
+Post_4192,Instagram,#Viral,Video,Japan,3417577,118797,11271,1040,Medium,3.8363,0
+Post_4195,Instagram,#Challenge,Reel,Brazil,3075050,282373,20662,43100,Low,11.2562,0
+Post_4205,Instagram,#Viral,Live Stream,Canada,897780,31613,86715,31460,Low,16.6843,0
+Post_4208,Instagram,#Music,Video,Brazil,4327143,390643,65125,484,Low,10.544,0
+Post_4209,Instagram,#Dance,Live Stream,Japan,2488071,331114,29029,8542,High,14.8181,0
+Post_4217,Instagram,#Comedy,Live Stream,Japan,4546474,429394,68164,14640,Low,11.2658,0
+Post_4218,Instagram,#Tech,Post,Japan,4498429,435775,48777,14555,Low,11.0951,0
+Post_4223,Instagram,#Challenge,Tweet,India,3278174,102658,57093,39631,Low,6.0821,0
+Post_4224,Instagram,#Dance,Live Stream,UK,783572,139704,19042,38146,Medium,25.1275,0
+Post_4232,Instagram,#Music,Shorts,UK,1087231,106848,43977,28368,Low,16.4816,0
+Post_4237,Instagram,#Dance,Video,Brazil,1293217,213794,46740,33829,Medium,22.7621,0
+Post_4239,Instagram,#Viral,Shorts,India,1575723,253050,16141,35096,High,19.3109,0
+Post_4243,Instagram,#Gaming,Tweet,Australia,1027434,150441,58194,45827,Low,24.7667,0
+Post_4246,Instagram,#Fitness,Tweet,Brazil,852004,355651,82868,32850,Low,55.3247,1
+Post_4252,Instagram,#Fitness,Live Stream,Australia,1925512,445030,93050,27310,Low,29.3631,0
+Post_4254,Instagram,#Gaming,Tweet,Australia,3931634,154021,17016,30829,High,5.1344,0
+Post_4261,Instagram,#Fashion,Live Stream,USA,1361580,169568,875,22352,Medium,14.1597,0
+Post_4266,Instagram,#Gaming,Live Stream,India,4926269,264064,91827,1032,High,7.2453,0
+Post_4267,Instagram,#Dance,Tweet,Japan,3691701,448223,32943,40561,Low,14.1324,0
+Post_4269,Instagram,#Fitness,Video,Canada,3247449,388272,6238,25311,Medium,12.9277,0
+Post_4276,Instagram,#Education,Live Stream,Germany,635329,151415,59753,29150,Medium,37.8258,0
+Post_4284,Instagram,#Fitness,Reel,Germany,782140,39109,45106,34619,Medium,15.1934,0
+Post_4287,Instagram,#Fitness,Tweet,Canada,1701218,219365,32346,9017,Medium,15.326,0
+Post_4304,Instagram,#Comedy,Video,Germany,4642714,29147,73143,24735,Low,2.736,0
+Post_4309,Instagram,#Education,Video,UK,419463,183965,12276,24832,High,52.7038,1
+Post_4311,Instagram,#Fitness,Reel,India,1825709,104030,69496,17900,High,10.485,0
+Post_4315,Instagram,#Challenge,Post,Canada,712323,159720,86640,24901,High,38.0812,0
+Post_4317,Instagram,#Tech,Video,Canada,2481313,163409,29625,20363,Medium,8.6002,0
+Post_4318,Instagram,#Fitness,Tweet,Australia,4447344,202595,89767,16312,Medium,6.9406,0
+Post_4321,Instagram,#Education,Tweet,Canada,3031467,389739,73465,30244,Medium,16.2775,0
+Post_4325,Instagram,#Challenge,Reel,Germany,886426,77304,13067,5337,Low,10.7971,0
+Post_4326,Instagram,#Tech,Reel,Germany,4821524,61393,87511,45741,Low,4.037,0
+Post_4334,Instagram,#Fashion,Tweet,India,3084526,328466,50665,1143,Low,12.3284,0
+Post_4336,Instagram,#Fitness,Video,Japan,1976436,196516,93950,14802,High,15.4454,0
+Post_4341,Instagram,#Fitness,Reel,Canada,3274826,163123,83423,21320,High,8.1795,0
+Post_4342,Instagram,#Viral,Reel,Japan,2896284,298030,9484,38997,High,11.964,0
+Post_4344,Instagram,#Fitness,Live Stream,Japan,4487563,464720,58373,32131,Low,12.3725,0
+Post_4350,Instagram,#Music,Post,Germany,196186,418310,29119,33093,High,244.9319,1
+Post_4353,Instagram,#Dance,Live Stream,Germany,498614,77138,95772,32235,Low,41.143,1
+Post_4356,Instagram,#Fashion,Video,Germany,4680679,293744,29872,10322,Low,7.1344,0
+Post_4360,Instagram,#Music,Video,India,4309403,216401,26305,39385,Low,6.5459,0
+Post_4361,Instagram,#Fitness,Reel,UK,3194403,260682,76842,15971,Medium,11.0661,0
+Post_4362,Instagram,#Fashion,Tweet,Australia,1520447,20790,87638,21215,Medium,8.5266,0
+Post_4367,Instagram,#Gaming,Live Stream,Germany,1815108,311741,16886,34948,Medium,20.0305,0
+Post_4368,Instagram,#Music,Video,Japan,2808130,115962,9701,43849,Medium,6.0365,0
+Post_4374,Instagram,#Dance,Tweet,UK,3192456,38469,3444,1286,Medium,1.3532,0
+Post_4381,Instagram,#Fitness,Live Stream,Canada,1176367,412820,10950,43729,Low,39.7409,1
+Post_4384,Instagram,#Tech,Shorts,USA,3570089,335278,91228,47015,Low,13.2636,0
+Post_4391,Instagram,#Fashion,Reel,Brazil,2750057,417313,58474,6414,Medium,17.5342,0
+Post_4392,Instagram,#Fitness,Shorts,Australia,4608617,83329,8332,25349,Low,2.5389,0
+Post_4401,Instagram,#Dance,Post,Australia,4622736,263342,43263,10974,High,6.8699,0
+Post_4408,Instagram,#Fashion,Post,Japan,563991,425610,63863,38250,High,93.5694,1
+Post_4411,Instagram,#Gaming,Reel,Germany,467214,397417,72166,13251,Low,103.3432,1
+Post_4418,Instagram,#Gaming,Video,India,2257240,452058,18608,10444,Low,21.3141,0
+Post_4422,Instagram,#Viral,Video,India,267239,358950,54558,25006,Low,164.0906,1
+Post_4424,Instagram,#Gaming,Tweet,Germany,554142,60701,68343,16296,High,26.2279,0
+Post_4429,Instagram,#Challenge,Post,Japan,3147607,123912,24092,41902,High,6.0333,0
+Post_4437,Instagram,#Music,Live Stream,USA,466743,253098,39009,47537,High,72.769,1
+Post_4446,Instagram,#Gaming,Post,Canada,637729,241923,62036,44594,High,54.6553,1
+Post_4449,Instagram,#Gaming,Shorts,UK,1081777,48326,42923,6408,High,9.0275,0
+Post_4452,Instagram,#Fitness,Reel,Germany,1945496,290804,36541,15838,Low,17.6399,0
+Post_4455,Instagram,#Challenge,Reel,Australia,3924268,498261,8499,11392,High,13.2038,0
+Post_4456,Instagram,#Comedy,Live Stream,USA,568573,45982,59886,44122,High,26.3801,0
+Post_4457,Instagram,#Gaming,Post,Japan,3111832,171402,51391,12925,Medium,7.5749,0
+Post_4458,Instagram,#Fitness,Reel,Australia,2304449,355721,54164,43193,Low,19.661,0
+Post_4465,Instagram,#Music,Post,Canada,3144724,346002,68200,21104,High,13.8424,0
+Post_4466,Instagram,#Gaming,Post,Australia,3567170,178506,37026,14997,Low,6.4625,0
+Post_4470,Instagram,#Music,Video,USA,4781223,331083,5095,10256,Low,7.2457,0
+Post_4473,Instagram,#Dance,Reel,Germany,1035139,212435,51821,2303,High,25.751,0
+Post_4474,Instagram,#Comedy,Shorts,USA,46451,62611,79389,17478,Medium,343.3252,1
+Post_4479,Instagram,#Fitness,Shorts,Canada,521996,477724,90232,45777,High,117.5743,1
+Post_4480,Instagram,#Gaming,Post,Japan,2825457,210288,13695,5774,Medium,8.1317,0
+Post_4483,Instagram,#Education,Post,Canada,2160970,332512,86309,47146,High,21.5629,0
+Post_4486,Instagram,#Fashion,Live Stream,UK,105441,393868,81465,35311,Low,484.2936,1
+Post_4495,Instagram,#Challenge,Live Stream,Germany,255535,301119,9161,19777,Low,129.1631,1
+Post_4501,Instagram,#Challenge,Video,Brazil,997524,304745,78986,38172,Low,42.295,1
+Post_4503,Instagram,#Dance,Reel,Canada,399317,482528,46641,40719,Low,142.7157,1
+Post_4509,Instagram,#Fitness,Reel,USA,959411,133168,45872,14351,Medium,20.1573,0
+Post_4512,Instagram,#Education,Video,Brazil,1148460,443609,15746,17351,Medium,41.5083,1
+Post_4517,Instagram,#Education,Post,Germany,1102834,10831,8436,16461,Medium,3.2397,0
+Post_4531,Instagram,#Gaming,Shorts,India,3073012,362550,15841,26557,Low,13.1776,0
+Post_4537,Instagram,#Viral,Live Stream,UK,4569333,417157,69945,1610,Low,10.6955,0
+Post_4541,Instagram,#Gaming,Tweet,Brazil,4635805,171261,93859,29778,Low,6.3613,0
+Post_4543,Instagram,#Viral,Reel,USA,74324,31018,63255,35276,Low,174.3031,1
+Post_4548,Instagram,#Challenge,Tweet,UK,50612,269736,42711,6981,Low,631.131,1
+Post_4557,Instagram,#Dance,Video,India,808212,283585,28197,42085,Medium,43.7839,1
+Post_4565,Instagram,#Dance,Shorts,Australia,2047644,237289,24803,5008,High,13.0443,0
+Post_4567,Instagram,#Fitness,Reel,USA,1011802,337782,88350,32967,Medium,45.3744,1
+Post_4571,Instagram,#Education,Shorts,India,4755630,369132,72628,1581,Low,9.3224,0
+Post_4575,Instagram,#Viral,Shorts,Germany,2936409,161409,1809,5457,Low,5.7443,0
+Post_4576,Instagram,#Music,Reel,Germany,2748383,325417,19117,11624,High,12.9588,0
+Post_4577,Instagram,#Challenge,Shorts,Australia,2763379,424976,27036,13761,Low,16.8552,0
+Post_4584,Instagram,#Dance,Post,Brazil,552118,440910,55306,15939,Medium,92.7619,1
+Post_4587,Instagram,#Tech,Reel,Australia,4796690,426637,78236,41106,Medium,11.3824,0
+Post_4589,Instagram,#Gaming,Reel,USA,27994,441518,38281,10867,High,1752.7542,1
+Post_4597,Instagram,#Fashion,Post,UK,3291531,119950,87148,35630,Low,7.3743,0
+Post_4602,Instagram,#Fashion,Reel,Germany,4885418,32889,49069,12821,Low,1.94,0
+Post_4606,Instagram,#Education,Post,Brazil,4538803,37888,31285,41134,Low,2.4303,0
+Post_4607,Instagram,#Gaming,Shorts,Australia,1175078,42905,98581,20024,Medium,13.7446,0
+Post_4610,Instagram,#Fashion,Video,USA,788460,65933,20908,11908,Low,12.5243,0
+Post_4621,Instagram,#Music,Reel,India,4461089,251802,50220,49414,Medium,7.8778,0
+Post_4624,Instagram,#Dance,Video,Japan,1984418,214222,75144,10982,Low,15.1353,0
+Post_4625,Instagram,#Tech,Video,UK,1766643,372453,31196,35447,Low,24.8548,0
+Post_4634,Instagram,#Tech,Post,USA,4818440,212639,24551,26488,Medium,5.4723,0
+Post_4642,Instagram,#Comedy,Video,UK,4690084,461297,95691,23649,High,12.3801,0
+Post_4644,Instagram,#Viral,Reel,USA,2364901,441370,86968,28414,Medium,23.5423,0
+Post_4646,Instagram,#Dance,Video,USA,1740910,368932,89995,40782,High,28.7039,0
+Post_4660,Instagram,#Comedy,Post,Australia,3498488,89978,29892,34882,High,4.4234,0
+Post_4668,Instagram,#Music,Reel,Japan,207495,134074,74441,37754,Medium,118.6867,1
+Post_4671,Instagram,#Music,Post,Germany,1164811,273820,45278,33006,Medium,30.2284,0
+Post_4673,Instagram,#Education,Video,UK,1690987,321050,55297,24685,Medium,23.7159,0
+Post_4681,Instagram,#Comedy,Video,Canada,4309722,32734,77691,11883,High,2.838,0
+Post_4684,Instagram,#Gaming,Live Stream,India,297130,156713,2924,15183,High,58.8362,1
+Post_4691,Instagram,#Comedy,Video,Germany,2299356,495941,11961,16485,Medium,22.8058,0
+Post_4703,Instagram,#Music,Shorts,Brazil,4903978,68921,75527,6533,Low,3.0787,0
+Post_4705,Instagram,#Challenge,Shorts,Canada,642028,8962,37402,31693,Low,12.1579,0
+Post_4709,Instagram,#Fashion,Tweet,Japan,3219104,42669,37168,32049,High,3.4757,0
+Post_4713,Instagram,#Gaming,Tweet,Brazil,3007888,375087,4908,13091,Medium,13.0685,0
+Post_4718,Instagram,#Gaming,Tweet,Brazil,3649213,270175,90118,2531,High,9.9425,0
+Post_4719,Instagram,#Viral,Post,India,2216125,449987,37594,38581,High,23.7424,0
+Post_4724,Instagram,#Viral,Video,Australia,1781924,79633,15583,15885,Low,6.2349,0
+Post_4726,Instagram,#Viral,Video,India,2934790,77308,84676,8936,Low,5.8239,0
+Post_4727,Instagram,#Comedy,Video,USA,4370709,128441,38915,38928,High,4.7197,0
+Post_4728,Instagram,#Fitness,Tweet,Australia,453593,164787,60691,27711,Low,55.8185,1
+Post_4730,Instagram,#Viral,Video,Brazil,71482,226507,35353,35679,Medium,416.2433,1
+Post_4734,Instagram,#Fashion,Video,India,811919,220241,66953,6617,Low,36.1872,0
+Post_4735,Instagram,#Challenge,Shorts,USA,4383045,364525,90039,11727,High,10.6385,0
+Post_4737,Instagram,#Fitness,Reel,Brazil,4436970,261021,47592,40550,Medium,7.8694,0
+Post_4738,Instagram,#Gaming,Live Stream,Japan,1831132,238386,42195,33961,Low,17.1775,0
+Post_4742,Instagram,#Music,Video,Germany,1722070,493708,79119,41390,Medium,35.6674,0
+Post_4744,Instagram,#Music,Shorts,UK,1137589,168541,64622,23184,Medium,22.5342,0
+Post_4746,Instagram,#Fitness,Tweet,Australia,4033578,51533,75559,11512,Low,3.4363,0
+Post_4754,Instagram,#Gaming,Live Stream,India,3097651,268306,65885,16747,High,11.3292,0
+Post_4759,Instagram,#Fashion,Video,Canada,1602283,403609,7724,20596,Medium,26.9571,0
+Post_4761,Instagram,#Tech,Live Stream,Brazil,1650036,304588,15654,19851,High,20.6112,0
+Post_4767,Instagram,#Fitness,Video,Brazil,4087039,483900,15030,24612,Low,12.8098,0
+Post_4769,Instagram,#Music,Post,India,1027847,362060,47435,37002,Low,43.44,1
+Post_4770,Instagram,#Dance,Tweet,Germany,1334589,266552,48272,11189,Medium,24.428,0
+Post_4772,Instagram,#Viral,Reel,Australia,17410,440302,87598,7090,Low,3072.8891,1
+Post_4780,Instagram,#Fitness,Tweet,UK,1085330,403285,93043,35529,Low,49.0042,1
+Post_4782,Instagram,#Gaming,Live Stream,Brazil,2931391,338512,25132,35276,High,13.6086,0
+Post_4794,Instagram,#Tech,Video,Brazil,1986024,232499,19425,23352,Low,13.8607,0
+Post_4796,Instagram,#Music,Live Stream,Australia,1219770,291504,16339,31645,High,27.8321,0
+Post_4797,Instagram,#Education,Shorts,Germany,1085450,318761,68762,33987,Medium,38.8327,0
+Post_4801,Instagram,#Challenge,Shorts,India,3521257,499054,62073,40943,Medium,17.0982,0
+Post_4813,Instagram,#Music,Reel,Australia,3927144,233834,69647,25283,Low,8.3716,0
+Post_4820,Instagram,#Tech,Post,UK,3032675,489182,33789,7722,High,17.4992,0
+Post_4826,Instagram,#Fashion,Live Stream,Canada,2780097,314928,38702,22810,Low,13.5405,0
+Post_4828,Instagram,#Fashion,Video,USA,1934599,344378,37234,43612,Medium,21.98,0
+Post_4829,Instagram,#Gaming,Reel,India,3432236,220593,79638,11255,Low,9.0753,0
+Post_4847,Instagram,#Education,Live Stream,Canada,2896863,371193,92745,30595,Low,17.0713,0
+Post_4848,Instagram,#Challenge,Live Stream,Canada,1015588,461019,50137,8384,Medium,51.1566,1
+Post_4850,Instagram,#Fitness,Tweet,Japan,314695,60303,73622,3048,High,43.5256,1
+Post_4852,Instagram,#Tech,Video,UK,2744334,432158,74368,12933,Low,18.9284,0
+Post_4855,Instagram,#Gaming,Tweet,Canada,4839145,482348,51534,14880,Low,11.3401,0
+Post_4856,Instagram,#Education,Shorts,Australia,459654,356338,35844,36945,Medium,93.3587,1
+Post_4866,Instagram,#Tech,Video,Canada,3979333,296583,58040,7687,Medium,9.1048,0
+Post_4868,Instagram,#Comedy,Video,Japan,3546380,403218,81324,33580,High,14.6099,0
+Post_4873,Instagram,#Viral,Post,Japan,264350,316213,37185,44016,Medium,150.3363,1
+Post_4874,Instagram,#Fitness,Video,Japan,2758867,340168,97166,37399,High,17.2075,0
+Post_4878,Instagram,#Music,Tweet,Canada,2648018,461474,69202,13596,Medium,20.5539,0
+Post_4884,Instagram,#Dance,Reel,UK,369433,443562,51100,18671,Low,138.9516,1
+Post_4887,Instagram,#Fitness,Shorts,Japan,1844185,111830,35146,38332,Low,10.0482,0
+Post_4897,Instagram,#Fashion,Live Stream,India,3383652,59292,59643,13191,High,3.9048,0
+Post_4907,Instagram,#Gaming,Reel,USA,2471218,434763,52776,45150,Medium,21.5557,0
+Post_4918,Instagram,#Fitness,Reel,Japan,1162556,409948,70388,9723,High,42.1536,1
+Post_4919,Instagram,#Fashion,Reel,Canada,520087,176014,18821,29899,Low,43.2108,1
+Post_4920,Instagram,#Education,Live Stream,Brazil,3164207,361279,85852,45486,Medium,15.5684,0
+Post_4924,Instagram,#Dance,Shorts,Japan,3359348,170389,26371,43645,Medium,7.1563,0
+Post_4929,Instagram,#Comedy,Reel,Australia,2730222,255263,42037,35227,Low,12.1795,0
+Post_4933,Instagram,#Gaming,Video,Japan,1144301,295897,16431,9133,High,28.0923,0
+Post_4941,Instagram,#Fitness,Video,Australia,1840183,79448,55602,2024,Medium,7.4489,0
+Post_4947,Instagram,#Tech,Post,Germany,3567033,185576,96028,37171,Low,8.9367,0
+Post_4948,Instagram,#Education,Live Stream,Brazil,2445127,73828,86087,4540,Medium,6.7258,0
+Post_4949,Instagram,#Comedy,Live Stream,Brazil,1192841,499559,62015,43532,Medium,50.7281,1
+Post_4951,Instagram,#Education,Live Stream,Japan,3321787,219299,46726,35890,Low,9.0889,0
+Post_4952,Instagram,#Challenge,Tweet,Germany,4826210,358524,48491,825,Medium,8.4505,0
+Post_4956,Instagram,#Music,Tweet,India,3587965,292099,62484,3435,High,9.9783,0
+Post_4958,Instagram,#Fitness,Live Stream,Australia,38930,295330,60125,42066,High,1021.1174,1
+Post_4961,Instagram,#Tech,Tweet,Germany,2964544,487730,97256,45944,Medium,21.2825,0
+Post_4962,Instagram,#Comedy,Live Stream,Canada,967265,58292,57181,4253,Low,12.3778,0
+Post_4963,Instagram,#Dance,Post,UK,3394623,412913,94817,13878,Low,15.3657,0
+Post_4968,Instagram,#Education,Live Stream,UK,3118970,150127,9207,2892,Low,5.2013,0
+Post_4974,Instagram,#Fashion,Tweet,Australia,1409550,96300,41309,23481,Low,11.4285,0
+Post_4978,Instagram,#Comedy,Reel,Australia,2481166,77818,79907,49785,Medium,8.3634,0
+Post_4980,Instagram,#Education,Reel,Canada,4568680,105032,26554,3674,Medium,2.9606,0
+Post_4982,Instagram,#Comedy,Reel,UK,585134,202252,21758,37425,High,44.6795,1
+Post_4984,Instagram,#Education,Video,Germany,3012183,86188,26059,39519,Medium,5.0384,0
+Post_4988,Instagram,#Fashion,Video,Australia,1143337,491688,11608,8331,High,44.7486,1
+Post_4990,Instagram,#Fitness,Shorts,Australia,535624,202764,39983,22546,Medium,49.5297,1
+Post_4992,Instagram,#Fashion,Shorts,Brazil,10157,322897,93292,23766,High,4331.5447,1
+Post_4995,Instagram,#Comedy,Shorts,Brazil,940934,436187,12363,11054,Low,48.8455,1
+Post_4997,Instagram,#Education,Video,UK,4841525,166266,54841,4832,Medium,4.6667,0
+Post_4999,Instagram,#Gaming,Shorts,Canada,2221665,46996,12954,42832,Low,4.6264,0
+Post_5000,Instagram,#Fashion,Reel,Japan,2224007,72744,29945,46381,Low,6.7028,0
